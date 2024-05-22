@@ -34,7 +34,7 @@
     {"resourceName":"handle_white.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/handle_white.control"},
     {"resourceName":"textboxDarkEditor.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/textboxDarkEditor.control"},
     {"resourceName":"window_blue.frame", "version":6, "url":"https://www.bellground.com/lazyresource/frame/window_blue.frame"},
-    {"resourceName":"window_red.frame", "version":6, "url":"https://www.bellground.com/lazyresource/frame/window_red.frame"},
+    {"resourceName":"window_red.frame", "version":7, "url":"https://www.bellground.com/lazyresource/frame/window_red.frame"},
     {"resourceName":"rect/graphEditor.frame", "version":2, "url":"https://www.bellground.com/lazyresource/frame/graphEditor.frame"},
     {"resourceName":"rect/pathEditor.frame", "version":0, "url":"https://www.bellground.com/lazyresource/frame/pathEditor.frame"},
     {"resourceName":"rect/colorEditor.frame", "version":0, "url":"https://www.bellground.com/lazyresource/frame/colorEditor.frame"},
