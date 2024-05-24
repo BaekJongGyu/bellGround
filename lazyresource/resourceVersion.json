@@ -27,6 +27,7 @@
     {"resourceName":"rect/button1.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/button1.control"},
     {"resourceName":"rect/selectButton1.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/selectButton1.control"},
     {"resourceName":"cover.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/cover.control"},
+    {"resourceName":"thanks.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/thanks.control"},
     {"resourceName":"scrollbarOpacity.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/scrollbarOpacity.control"},
     {"resourceName":"stickerBlueScrollbar.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/stickerBlueScrollbar.control"},
     {"resourceName":"stickerRedScrollbar.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/stickerRedScrollbar.control"},
