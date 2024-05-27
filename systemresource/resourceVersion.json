@@ -1,6 +1,7 @@
 [
     {"resourceName": "acc_head_10000.graph", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/acc_head_10000.graph"},
     {"resourceName": "line_10000.graph", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/line_10000.graph"},
+    {"resourceName": "heart_10000.graph", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/heart_10000.graph"},
     {"resourceName": "graphValue/bounce3.graphvalue", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/bounce3.graphvalue"},
     {"resourceName": "graphValue/heart.graphvalue", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/heart.graphvalue"},
     {"resourceName": "graphValue/shake.graphvalue", "version": 0, "url":"https://www.bellground.com/systemresource/graphValue/shake.graphvalue"},
