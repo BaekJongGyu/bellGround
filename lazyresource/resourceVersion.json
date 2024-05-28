@@ -30,7 +30,7 @@
     {"resourceName":"thanks.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/thanks.control"},
     {"resourceName":"scrollbarOpacity.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/scrollbarOpacity.control"},
     {"resourceName":"stickerBlueScrollbar.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/stickerBlueScrollbar.control"},
-    {"resourceName":"stickerRedScrollbar.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/stickerRedScrollbar.control"},
+    {"resourceName":"stickerRedScrollbar.control", "version":1, "url":"https://www.bellground.com/lazyresource/control/stickerRedScrollbar.control"},
     {"resourceName":"label_left_blue.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/label_left_blue.control"},
     {"resourceName":"handle_white.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/handle_white.control"},
     {"resourceName":"textboxDarkEditor.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/textboxDarkEditor.control"},
