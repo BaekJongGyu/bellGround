@@ -16,7 +16,7 @@
     {"resourceName":"rect/listItem3.canvasitems", "version": 0, "url":"https://www.bellground.com/lazyresource/canvasitems/listItem3.canvasitems"},
     {"resourceName":"rect/listItem4.canvasitems", "version": 0, "url":"https://www.bellground.com/lazyresource/canvasitems/listItem4.canvasitems"},
     {"resourceName":"empty.control", "version": 0, "url":"https://www.bellground.com/lazyresource/control/empty.control"},
-    {"resourceName":"pathHandle.control", "version": 0, "url":"https://www.bellground.com/lazyresource/control/pathHandle.control"},
+    {"resourceName":"pathHandle.control", "version": 1, "url":"https://www.bellground.com/lazyresource/control/pathHandle.control"},
     {"resourceName":"blueComboBox.control", "version": 0, "url":"https://www.bellground.com/lazyresource/control/blueComboBox.control"},
     {"resourceName":"rect/scrollbar3.control", "version": 0, "url":"https://www.bellground.com/lazyresource/control/scrollbar3.control"},
     {"resourceName":"rect/scrollbar1.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/scrollbar1.control"},
