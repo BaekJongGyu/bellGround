@@ -63,7 +63,7 @@
     {"resourceName":"page/stickerManager.page", "version":4, "url":"https://www.bellground.com/lazyresource/page/stickerManager.page"},
     {"resourceName":"page/textAreaSetting.page", "version":4, "url":"https://www.bellground.com/lazyresource/page/textAreaSetting.page"},
     {"resourceName":"page/donate.page", "version":8, "url":"https://www.bellground.com/lazyresource/page/donate.page"},
-    {"resourceName":"page/controlSelector.page", "version":11, "url":"https://www.bellground.com/lazyresource/page/controlSelector.page"},
+    {"resourceName":"page/controlSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/controlSelector.page"},
 
     {"resourceName":"base/baseButton.control","version":0,"url":"https://www.bellground.com/baseresource/baseButton.control"},
     {"resourceName":"base/baseCalendar.control","version":0,"url":"https://www.bellground.com/baseresource/baseCalendar.control"},
