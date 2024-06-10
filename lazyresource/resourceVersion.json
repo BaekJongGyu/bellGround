@@ -65,6 +65,12 @@
     {"resourceName":"page/textAreaSetting.page", "version":4, "url":"https://www.bellground.com/lazyresource/page/textAreaSetting.page"},
     {"resourceName":"page/donate.page", "version":8, "url":"https://www.bellground.com/lazyresource/page/donate.page"},
     {"resourceName":"page/controlSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/controlSelector.page"},
+    {"resourceName":"page/simplePathEditor.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/simplePathEditor.page"},
+    {"resourceName":"page/tracingImage.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/tracingImage.page"},
+    {"resourceName":"page/pathSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathSelector.page"},
+    {"resourceName":"page/pathRectSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathRectSelector.page"},
+    {"resourceName":"page/pathPoligonSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathPoligonSelector.page"},
+    {"resourceName":"page/pathHornSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathHornSelector.page"},
 
     {"resourceName":"base/baseButton.control","version":0,"url":"https://www.bellground.com/baseresource/baseButton.control"},
     {"resourceName":"base/baseCalendar.control","version":0,"url":"https://www.bellground.com/baseresource/baseCalendar.control"},
