@@ -65,7 +65,7 @@
     {"resourceName":"page/textAreaSetting.page", "version":4, "url":"https://www.bellground.com/lazyresource/page/textAreaSetting.page"},
     {"resourceName":"page/donate.page", "version":8, "url":"https://www.bellground.com/lazyresource/page/donate.page"},
     {"resourceName":"page/controlSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/controlSelector.page"},
-    {"resourceName":"page/simplePathEditor.page", "version":13, "url":"https://www.bellground.com/lazyresource/page/simplePathEditor.page"},
+    {"resourceName":"page/simplePathEditor.page", "version":14, "url":"https://www.bellground.com/lazyresource/page/simplePathEditor.page"},
     {"resourceName":"page/tracingImage.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/tracingImage.page"},
     {"resourceName":"page/pathSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathSelector.page"},
     {"resourceName":"page/pathRectSelector.page", "version":12, "url":"https://www.bellground.com/lazyresource/page/pathRectSelector.page"},
