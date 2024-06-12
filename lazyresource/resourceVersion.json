@@ -30,6 +30,7 @@
     {"resourceName":"control/buttonOceanBlue.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/buttonOceanBlue.control"},
     {"resourceName":"cover.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/cover.control"},
     {"resourceName":"thanks.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/thanks.control"},
+    {"resourceName":"image.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/image.control"},
     {"resourceName":"pathController.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/pathController.control"},
     {"resourceName":"scrollbarOpacity.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/scrollbarOpacity.control"},
     {"resourceName":"stickerBlueScrollbar.control", "version":0, "url":"https://www.bellground.com/lazyresource/control/stickerBlueScrollbar.control"},
