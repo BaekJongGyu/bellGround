@@ -17,6 +17,9 @@
     {"resourceName":"hint.control", "version":1, "url":"https://www.bellground.com/systemresource/control/hint.control"},
     {"resourceName":"desktop.page", "version":3, "url":"https://www.bellground.com/systemresource/page/desktop.page"},
 
+    {"resourceName":"alarm.control", "version":1, "url":"https://www.bellground.com/systemresource/control/alarm.control"},
+    {"resourceName":"alarmWarning.control", "version":1, "url":"https://www.bellground.com/systemresource/control/alarmWarning.control"},
+    
     {"resourceName":"sticker.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/sticker.icon"},
     {"resourceName":"page.icon", "version":2, "url":"https://www.bellground.com/systemresource/icon/page.icon"},
     {"resourceName":"layers.icon", "version":3, "url":"https://www.bellground.com/systemresource/icon/layers.icon"},
