@@ -30,8 +30,9 @@
     {"resourceName":"animation.icon", "version":6, "url":"https://www.bellground.com/systemresource/icon/animation.icon"},
     {"resourceName":"txt.icon", "version":9, "url":"https://www.bellground.com/systemresource/icon/txt.icon"},
     {"resourceName":"directory.icon", "version":2, "url":"https://www.bellground.com/systemresource/icon/directory.icon"},
-    {"resourceName":"setting.icon", "version":10, "url":"https://www.bellground.com/systemresource/icon/setting.icon"},
-    {"resourceName":"heart.icon", "version":10, "url":"https://www.bellground.com/systemresource/icon/heart.icon"},
-    {"resourceName":"login.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/login.icon"},
-    {"resourceName":"bell.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/bell.icon"}
+    {"resourceName":"setting.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/setting.icon"},
+    {"resourceName":"heart.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/heart.icon"},
+    {"resourceName":"login.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/login.icon"},
+    {"resourceName":"bell.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/bell.icon"},
+    {"resourceName":"pathControlEditor.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/pathControlEditor.icon"}
 ]
