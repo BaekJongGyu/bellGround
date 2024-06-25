@@ -34,5 +34,6 @@
     {"resourceName":"heart.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/heart.icon"},
     {"resourceName":"login.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/login.icon"},
     {"resourceName":"bell.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/bell.icon"},
-    {"resourceName":"pathControlEditor.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/pathControlEditor.icon"}
+    {"resourceName":"pathControlEditor.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/pathControlEditor.icon"},
+    {"resourceName":"magnetic.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/magnetic.icon"}
 ]
