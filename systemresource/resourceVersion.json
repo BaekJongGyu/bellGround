@@ -19,9 +19,7 @@
 
     {"resourceName":"alarm.control", "version":2, "url":"https://www.bellground.com/systemresource/control/alarm.control"},
     {"resourceName":"alarmWarning.control", "version":2, "url":"https://www.bellground.com/systemresource/control/alarmWarning.control"},
-    {"resourceName":"directorySample.control", "version":2, "url":"https://www.bellground.com/systemresource/control/directorySample.control"},
-    {"resourceName":"directoryManual.control", "version":2, "url":"https://www.bellground.com/systemresource/control/directoryManual.control"},
-    
+        
     {"resourceName":"sticker.icon", "version":11, "url":"https://www.bellground.com/systemresource/icon/sticker.icon"},
     {"resourceName":"page.icon", "version":2, "url":"https://www.bellground.com/systemresource/icon/page.icon"},
     {"resourceName":"layers.icon", "version":3, "url":"https://www.bellground.com/systemresource/icon/layers.icon"},
@@ -37,5 +35,6 @@
     {"resourceName":"login.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/login.icon"},
     {"resourceName":"bell.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/bell.icon"},
     {"resourceName":"pathControlEditor.icon", "version":12, "url":"https://www.bellground.com/systemresource/icon/pathControlEditor.icon"},
-    {"resourceName":"magnetic.icon", "version":13, "url":"https://www.bellground.com/systemresource/icon/magnetic.icon"}
+    {"resourceName":"magnetic.icon", "version":13, "url":"https://www.bellground.com/systemresource/icon/magnetic.icon"},
+    {"resourceName":"sample.icon", "version":13, "url":"https://www.bellground.com/systemresource/icon/sample.icon"}
 ]
