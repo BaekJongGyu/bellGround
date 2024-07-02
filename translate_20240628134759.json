@@ -1,0 +1,1259 @@
+[
+    {
+        "transCode": "C_EX",
+        "sourceText": "This is an example of using the translator",
+        "sourceLanguageCode": "en",
+        "translateData": [
+            {
+                "translateLanguageCode": "ko",
+                "translateText": "번역기를 사용한 예입니다."
+            },
+            {
+                "translateLanguageCode": "gl",
+                "translateText": "Este é un exemplo de uso do tradutor"
+            },
+            {
+                "translateLanguageCode": "gu",
+                "translateText": "આ અનુવાદકનો ઉપયોગ કરવાનું ઉદાહરણ છે"
+            },
+            {
+                "translateLanguageCode": "el",
+                "translateText": "Αυτό είναι ένα παράδειγμα χρήσης του μεταφραστή"
+            },
+            {
+                "translateLanguageCode": "nl",
+                "translateText": "Dit is een voorbeeld van het gebruik van de vertaler"
+            },
+            {
+                "translateLanguageCode": "ne",
+                "translateText": "यो अनुवादक प्रयोग गर्ने एउटा उदाहरण हो"
+            },
+            {
+                "translateLanguageCode": "no",
+                "translateText": "Dette er et eksempel på bruk av oversetteren"
+            },
+            {
+                "translateLanguageCode": "da",
+                "translateText": "Dette er et eksempel på brug af oversætteren"
+            },
+            {
+                "translateLanguageCode": "de",
+                "translateText": "Dies ist ein Beispiel für die Verwendung des Übersetzers"
+            },
+            {
+                "translateLanguageCode": "lo",
+                "translateText": "ນີ້ແມ່ນຕົວຢ່າງຂອງການໃຊ້ຕົວແປ"
+            },
+            {
+                "translateLanguageCode": "lv",
+                "translateText": "Šis ir tulkotāja izmantošanas piemērs"
+            },
+            {
+                "translateLanguageCode": "la",
+                "translateText": "Hoc est exemplum utendi translator"
+            },
+            {
+                "translateLanguageCode": "ru",
+                "translateText": "Это пример использования переводчика"
+            },
+            {
+                "translateLanguageCode": "ro",
+                "translateText": "Acesta este un exemplu de utilizare a traducătorului"
+            },
+            {
+                "translateLanguageCode": "lb",
+                "translateText": "Dëst ass e Beispill fir den Iwwersetzer ze benotzen"
+            },
+            {
+                "translateLanguageCode": "lt",
+                "translateText": "Tai yra vertėjo naudojimo pavyzdys"
+            },
+            {
+                "translateLanguageCode": "mr",
+                "translateText": "हे भाषांतरकार वापरण्याचे उदाहरण आहे"
+            },
+            {
+                "translateLanguageCode": "mi",
+                "translateText": "He tauira tenei mo te whakamahi i te kaiwhakamaori"
+            },
+            {
+                "translateLanguageCode": "mk",
+                "translateText": "Ова е пример за користење на преведувачот"
+            },
+            {
+                "translateLanguageCode": "mg",
+                "translateText": "Ity dia ohatra iray amin'ny fampiasana ny mpandika teny"
+            },
+            {
+                "translateLanguageCode": "ml",
+                "translateText": "വിവർത്തകനെ ഉപയോഗിക്കുന്നതിനുള്ള ഒരു ഉദാഹരണമാണിത്"
+            },
+            {
+                "translateLanguageCode": "ms",
+                "translateText": "Ini adalah contoh penggunaan penterjemah"
+            },
+            {
+                "translateLanguageCode": "mt",
+                "translateText": "Dan huwa eżempju ta 'użu tat-traduttur"
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Энэ бол орчуулагч ашиглах жишээ юм"
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Энэ бол орчуулагч ашиглах жишээ юм"
+            },
+            {
+                "translateLanguageCode": "my",
+                "translateText": "ဤသည်မှာ ဘာသာပြန်သူကို အသုံးပြုခြင်း၏ ဥပမာတစ်ခုဖြစ်သည်။"
+            },
+            {
+                "translateLanguageCode": "eu",
+                "translateText": "Hau da itzultzailea erabiltzearen adibide bat"
+            },
+            {
+                "translateLanguageCode": "vi",
+                "translateText": "Đây là một ví dụ về việc sử dụng trình dịch"
+            },
+            {
+                "translateLanguageCode": "be",
+                "translateText": "Гэта прыклад выкарыстання перакладчыка"
+            },
+            {
+                "translateLanguageCode": "bn",
+                "translateText": "এটি অনুবাদক ব্যবহার করার একটি উদাহরণ"
+            },
+            {
+                "translateLanguageCode": "bs",
+                "translateText": "Ovo je primjer korištenja prevoditelja"
+            },
+            {
+                "translateLanguageCode": "bg",
+                "translateText": "Това е пример за използване на преводача"
+            },
+            {
+                "translateLanguageCode": "sm",
+                "translateText": "O se faʻataʻitaʻiga lea o le faʻaaogaina o le faaliliu"
+            },
+            {
+                "translateLanguageCode": "sr",
+                "translateText": "Ово је пример коришћења преводиоца"
+            },
+            {
+                "translateLanguageCode": "ceb",
+                "translateText": "Kini usa ka pananglitan sa paggamit sa tighubad"
+            },
+            {
+                "translateLanguageCode": "st",
+                "translateText": "Ona ke mohlala oa ho sebelisa mofetoleli"
+            },
+            {
+                "translateLanguageCode": "so",
+                "translateText": "Tani waa tusaale isticmaalka turjumaanka"
+            },
+            {
+                "translateLanguageCode": "sn",
+                "translateText": "Uyu muenzaniso wekushandisa muturikiri"
+            },
+            {
+                "translateLanguageCode": "su",
+                "translateText": "Ieu conto ngagunakeun penerjemah"
+            },
+            {
+                "translateLanguageCode": "sw",
+                "translateText": "Huu ni mfano wa kutumia mfasiri"
+            },
+            {
+                "translateLanguageCode": "sv",
+                "translateText": "Detta är ett exempel på användning av översättaren"
+            },
+            {
+                "translateLanguageCode": "gd",
+                "translateText": "Seo eisimpleir de bhith a’ cleachdadh an eadar-theangair"
+            },
+            {
+                "translateLanguageCode": "es",
+                "translateText": "Este es un ejemplo del uso del traductor."
+            },
+            {
+                "translateLanguageCode": "sk",
+                "translateText": "Toto je príklad použitia prekladača"
+            },
+            {
+                "translateLanguageCode": "sl",
+                "translateText": "To je primer uporabe prevajalnika"
+            },
+            {
+                "translateLanguageCode": "sd",
+                "translateText": "هي ترجمو ڪندڙ استعمال ڪرڻ جو هڪ مثال آهي"
+            },
+            {
+                "translateLanguageCode": "si",
+                "translateText": "මෙය පරිවර්තකය භාවිතා කිරීමේ උදාහරණයකි"
+            },
+            {
+                "translateLanguageCode": "ar",
+                "translateText": "وهذا مثال على استخدام المترجم"
+            },
+            {
+                "translateLanguageCode": "hy",
+                "translateText": "Սա թարգմանչի օգտագործման օրինակ է"
+            },
+            {
+                "translateLanguageCode": "is",
+                "translateText": "Þetta er dæmi um notkun þýðanda"
+            },
+            {
+                "translateLanguageCode": "ht",
+                "translateText": "Sa a se yon egzanp lè l sèvi avèk tradiktè a"
+            },
+            {
+                "translateLanguageCode": "ga",
+                "translateText": "Is sampla é seo de úsáid an aistritheora"
+            },
+            {
+                "translateLanguageCode": "az",
+                "translateText": "Bu tərcüməçidən istifadə nümunəsidir"
+            },
+            {
+                "translateLanguageCode": "af",
+                "translateText": "Dit is 'n voorbeeld van die gebruik van die vertaler"
+            },
+            {
+                "translateLanguageCode": "sq",
+                "translateText": "Ky është një shembull i përdorimit të përkthyesit"
+            },
+            {
+                "translateLanguageCode": "am",
+                "translateText": "ይህ ተርጓሚውን የመጠቀም ምሳሌ ነው።"
+            },
+            {
+                "translateLanguageCode": "et",
+                "translateText": "See on näide tõlkija kasutamisest"
+            },
+            {
+                "translateLanguageCode": "eo",
+                "translateText": "Ĉi tio estas ekzemplo de uzado de la tradukilo"
+            },
+            {
+                "translateLanguageCode": "yo",
+                "translateText": "Eyi jẹ apẹẹrẹ ti lilo onitumọ"
+            },
+            {
+                "translateLanguageCode": "ur",
+                "translateText": "یہ مترجم کے استعمال کی ایک مثال ہے۔"
+            },
+            {
+                "translateLanguageCode": "uz",
+                "translateText": "Bu tarjimondan foydalanishga misol"
+            },
+            {
+                "translateLanguageCode": "uk",
+                "translateText": "Це приклад використання перекладача"
+            },
+            {
+                "translateLanguageCode": "cy",
+                "translateText": "Dyma enghraifft o ddefnyddio'r cyfieithydd"
+            },
+            {
+                "translateLanguageCode": "ig",
+                "translateText": "Nke a bụ ọmụmaatụ iji onye ntụgharị"
+            },
+            {
+                "translateLanguageCode": "yi",
+                "translateText": "דאָס איז אַ ביישפּיל פון ניצן די איבערזעצער"
+            },
+            {
+                "translateLanguageCode": "it",
+                "translateText": "Questo è un esempio di utilizzo del traduttore"
+            },
+            {
+                "translateLanguageCode": "id",
+                "translateText": "Ini adalah contoh penggunaan penerjemah"
+            },
+            {
+                "translateLanguageCode": "ja",
+                "translateText": "これは翻訳機の使用例です"
+            },
+            {
+                "translateLanguageCode": "jw",
+                "translateText": "Iki minangka conto nggunakake penerjemah"
+            },
+            {
+                "translateLanguageCode": "ka",
+                "translateText": "ეს არის მთარგმნელის გამოყენების მაგალითი"
+            },
+            {
+                "translateLanguageCode": "zu",
+                "translateText": "Lesi isibonelo sokusebenzisa umhumushi"
+            },
+            {
+                "translateLanguageCode": "zh-CH",
+                "translateText": "这是使用翻译器的示例"
+            },
+            {
+                "translateLanguageCode": "zh-TW",
+                "translateText": "這是使用翻譯器的範例"
+            },
+            {
+                "translateLanguageCode": "ny",
+                "translateText": "Ichi ndi chitsanzo cha kugwiritsa ntchito womasulira"
+            },
+            {
+                "translateLanguageCode": "cs",
+                "translateText": "Toto je příklad použití překladače"
+            },
+            {
+                "translateLanguageCode": "kk",
+                "translateText": "Бұл аудармашыны пайдаланудың мысалы"
+            },
+            {
+                "translateLanguageCode": "ca",
+                "translateText": "Aquest és un exemple d'ús del traductor"
+            },
+            {
+                "translateLanguageCode": "kn",
+                "translateText": "ಅನುವಾದಕನನ್ನು ಬಳಸುವ ಒಂದು ಉದಾಹರಣೆಯಾಗಿದೆ"
+            },
+            {
+                "translateLanguageCode": "co",
+                "translateText": "Questu hè un esempiu di usu di u traduttore"
+            },
+            {
+                "translateLanguageCode": "xh",
+                "translateText": "Lo ngumzekelo wokusetyenziswa komguquli"
+            },
+            {
+                "translateLanguageCode": "ku",
+                "translateText": "Ev mînakek bikaranîna wergêr e"
+            },
+            {
+                "translateLanguageCode": "hr",
+                "translateText": "Ovo je primjer korištenja prevoditelja"
+            },
+            {
+                "translateLanguageCode": "km",
+                "translateText": "នេះគឺជាឧទាហរណ៍នៃការប្រើប្រាស់អ្នកបកប្រែ"
+            },
+            {
+                "translateLanguageCode": "ky",
+                "translateText": "Бул котормочуну колдонуунун мисалы"
+            },
+            {
+                "translateLanguageCode": "tl",
+                "translateText": "Ito ay isang halimbawa ng paggamit ng tagasalin"
+            },
+            {
+                "translateLanguageCode": "ta",
+                "translateText": "மொழிபெயர்ப்பாளரைப் பயன்படுத்துவதற்கு இது ஒரு எடுத்துக்காட்டு"
+            },
+            {
+                "translateLanguageCode": "tg",
+                "translateText": "Ин як мисоли истифодаи тарҷумон аст"
+            },
+            {
+                "translateLanguageCode": "th",
+                "translateText": "นี่คือตัวอย่างการใช้นักแปล"
+            },
+            {
+                "translateLanguageCode": "tr",
+                "translateText": "Bu, çevirmenin kullanımına bir örnektir"
+            },
+            {
+                "translateLanguageCode": "te",
+                "translateText": "అనువాదకుడిని ఉపయోగించటానికి ఇది ఒక ఉదాహరణ"
+            },
+            {
+                "translateLanguageCode": "ps",
+                "translateText": "دا د ژباړونکي کارولو یوه بیلګه ده"
+            },
+            {
+                "translateLanguageCode": "pa",
+                "translateText": "ਇਹ ਅਨੁਵਾਦਕ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇੱਕ ਉਦਾਹਰਣ ਹੈ"
+            },
+            {
+                "translateLanguageCode": "fa",
+                "translateText": "این نمونه ای از استفاده از مترجم است"
+            },
+            {
+                "translateLanguageCode": "pt",
+                "translateText": "Este é um exemplo de uso do tradutor"
+            },
+            {
+                "translateLanguageCode": "pl",
+                "translateText": "To jest przykład użycia tłumacza"
+            },
+            {
+                "translateLanguageCode": "fr",
+                "translateText": "Ceci est un exemple d'utilisation du traducteur"
+            },
+            {
+                "translateLanguageCode": "fy",
+                "translateText": "Dit is in foarbyld fan it brûken fan de oersetter"
+            },
+            {
+                "translateLanguageCode": "fi",
+                "translateText": "Tämä on esimerkki kääntäjän käytöstä"
+            },
+            {
+                "translateLanguageCode": "haw",
+                "translateText": "He laʻana kēia o ka hoʻohana ʻana i ka unuhi"
+            },
+            {
+                "translateLanguageCode": "ha",
+                "translateText": "Wannan misali ne na amfani da fassarar"
+            },
+            {
+                "translateLanguageCode": "hu",
+                "translateText": "Ez egy példa a fordító használatára"
+            },
+            {
+                "translateLanguageCode": "iw",
+                "translateText": "זוהי דוגמה לשימוש במתרגם"
+            },
+            {
+                "translateLanguageCode": "hi",
+                "translateText": "यह अनुवादक का उपयोग करने का एक उदाहरण है"
+            }
+        ]
+    },
+    {
+        "transCode": "C_001",
+        "sourceText": "Click the Settings button.\\nSelect the language of the settings window.\\nThis app is displayed in that language.",
+        "sourceLanguageCode": "en",
+        "translateData": [
+            {
+                "translateLanguageCode": "ko",
+                "translateText": "설정 버튼을 클릭하세요.\\n설정 창의 언어를 선택하세요.\\n이 앱은 해당 언어로 표시됩니다."
+            },
+            {
+                "translateLanguageCode": "gl",
+                "translateText": "Fai clic no botón Configuración.\\nSelecciona o idioma da xanela de configuración.\\nEsta aplicación móstrase nese idioma."
+            },
+            {
+                "translateLanguageCode": "gu",
+                "translateText": "સેટિંગ્સ બટન પર ક્લિક કરો.\\nસેટિંગ વિંડોની ભાષા પસંદ કરો.\\nઆ એપ્લિકેશન તે ભાષામાં પ્રદર્શિત થાય છે."
+            },
+            {
+                "translateLanguageCode": "el",
+                "translateText": "Κάντε κλικ στο κουμπί Ρυθμίσεις.\\nΕπιλέξτε τη γλώσσα του παραθύρου ρυθμίσεων.\\nΑυτή η εφαρμογή εμφανίζεται σε αυτήν τη γλώσσα."
+            },
+            {
+                "translateLanguageCode": "nl",
+                "translateText": "Klik op de knop Instellingen.\\nSelecteer de taal van het instellingenvenster.\\nDeze app wordt in die taal weergegeven."
+            },
+            {
+                "translateLanguageCode": "ne",
+                "translateText": "सेटिङ बटनमा क्लिक गर्नुहोस्।\\nसेटिङ् विन्डोको भाषा चयन गर्नुहोस्।\\nयो एप त्यो भाषामा प्रदर्शित हुन्छ।"
+            },
+            {
+                "translateLanguageCode": "no",
+                "translateText": "Klikk på Innstillinger-knappen.\\nVelg språket for innstillingsvinduet.\\nDenne appen vises på det språket."
+            },
+            {
+                "translateLanguageCode": "da",
+                "translateText": "Klik på knappen Indstillinger.\\nVælg sproget for indstillingsvinduet.\\nDenne app vises på det sprog."
+            },
+            {
+                "translateLanguageCode": "de",
+                "translateText": "Klicken Sie auf die Schaltfläche „Einstellungen“. \\nWählen Sie die Sprache des Einstellungsfensters aus. \\nDiese App wird in dieser Sprache angezeigt."
+            },
+            {
+                "translateLanguageCode": "lo",
+                "translateText": "ຄລິກທີ່ປຸ່ມການຕັ້ງຄ່າ.\\nເລືອກພາສາຂອງໜ້າຈໍການຕັ້ງຄ່າ.\\nແອັບນີ້ຈະສະແດງເປັນພາສານັ້ນ."
+            },
+            {
+                "translateLanguageCode": "lv",
+                "translateText": "Noklikšķiniet uz pogas Iestatījumi.\\nAtlasiet iestatījumu loga valodu.\\nŠī lietotne tiek rādīta šajā valodā."
+            },
+            {
+                "translateLanguageCode": "la",
+                "translateText": "Preme puga Optiones.\\nSelect lingua uncinis fenestra.\\nThis app in lingua illa ostenditur."
+            },
+            {
+                "translateLanguageCode": "ru",
+                "translateText": "Нажмите кнопку «Настройки».\\nВыберите язык окна настроек.\\nЭто приложение отображается на этом языке."
+            },
+            {
+                "translateLanguageCode": "ro",
+                "translateText": "Faceți clic pe butonul Setări.\\nSelectați limba ferestrei de setări.\\nAceastă aplicație este afișată în limba respectivă."
+            },
+            {
+                "translateLanguageCode": "lb",
+                "translateText": "Klickt op d'Astellunge Knäppchen.\\nWielt d'Sprooch vun der Astellungsfenster.\\nDës App gëtt an där Sprooch ugewisen."
+            },
+            {
+                "translateLanguageCode": "lt",
+                "translateText": "Spustelėkite mygtuką Nustatymai.\\nPasirinkite nustatymų lango kalbą.\\nŠi programa rodoma ta kalba."
+            },
+            {
+                "translateLanguageCode": "mr",
+                "translateText": "सेटिंग्ज बटणावर क्लिक करा.\\nसेटिंग विंडोची भाषा निवडा.\\nहे ॲप त्या भाषेत प्रदर्शित केले जाते."
+            },
+            {
+                "translateLanguageCode": "mi",
+                "translateText": "Patohia te paatene Tautuhinga.\\nTīpakohia te reo o te matapihi tautuhinga.\\nKa whakaatuhia tenei taupānga ki taua reo."
+            },
+            {
+                "translateLanguageCode": "mk",
+                "translateText": "Кликнете на копчето Поставки.\\nИзберете го јазикот на прозорецот за поставки.\\nОваа апликација се прикажува на тој јазик."
+            },
+            {
+                "translateLanguageCode": "mg",
+                "translateText": "Kitiho ny bokotra Settings.\\nFidio ny fitenin'ny fikandrana fanovana.\\nIty app ity dia aseho amin'io fiteny io."
+            },
+            {
+                "translateLanguageCode": "ml",
+                "translateText": "ക്രമീകരണങ്ങൾ ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.\\nക്രമീകരണ വിൻഡോയുടെ ഭാഷ തിരഞ്ഞെടുക്കുക.\\nഈ ആപ്പ് ആ ഭാഷയിൽ പ്രദർശിപ്പിക്കും."
+            },
+            {
+                "translateLanguageCode": "ms",
+                "translateText": "Klik butang Tetapan.\\nPilih bahasa tetingkap tetapan.\\nApl ini dipaparkan dalam bahasa itu."
+            },
+            {
+                "translateLanguageCode": "mt",
+                "translateText": "Ikklikkja l-buttuna Settings.\\nAgħżel il-lingwa tat-tieqa tas-settings.\\nDin l-app tintwera f'dik il-lingwa."
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Тохиргоо товчийг дарна уу.\\nТохиргооны цонхны хэлийг сонгоно уу.\\nЭнэ апп нь тухайн хэлээр харагдана."
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Тохиргоо товчийг дарна уу.\\nТохиргооны цонхны хэлийг сонгоно уу.\\nЭнэ апп нь тухайн хэлээр харагдана."
+            },
+            {
+                "translateLanguageCode": "my",
+                "translateText": "ဆက်တင်များ ခလုတ်ကို နှိပ်ပါ။\\nဆက်တင်များ ဝင်းဒိုး၏ ဘာသာစကားကို ရွေးပါ။\\nဤအက်ပ်ကို ထိုဘာသာစကားဖြင့် ပြသထားသည်။"
+            },
+            {
+                "translateLanguageCode": "eu",
+                "translateText": "Egin klik Ezarpenak botoian.\\nHautatu ezarpenen leihoko hizkuntza.\\nAplikazio hau hizkuntza horretan bistaratzen da."
+            },
+            {
+                "translateLanguageCode": "vi",
+                "translateText": "Nhấp vào nút Cài đặt.\\nChọn ngôn ngữ của cửa sổ cài đặt.\\nỨng dụng này được hiển thị bằng ngôn ngữ đó."
+            },
+            {
+                "translateLanguageCode": "be",
+                "translateText": "Націсніце кнопку \"Налады\".\\nВыберыце мову акна налад.\\nГэта праграма адлюстроўваецца на гэтай мове."
+            },
+            {
+                "translateLanguageCode": "bn",
+                "translateText": "সেটিংস বোতামে ক্লিক করুন।\\nসেটিংস উইন্ডোর ভাষা নির্বাচন করুন।\\nএই অ্যাপটি সেই ভাষায় প্রদর্শিত হয়।"
+            },
+            {
+                "translateLanguageCode": "bs",
+                "translateText": "Kliknite na dugme Postavke.\\nOdaberite jezik prozora postavki.\\nOva aplikacija se prikazuje na tom jeziku."
+            },
+            {
+                "translateLanguageCode": "bg",
+                "translateText": "Щракнете върху бутона Настройки.\\nИзберете езика на прозореца с настройки.\\nТова приложение се показва на този език."
+            },
+            {
+                "translateLanguageCode": "sm",
+                "translateText": "Kiliki le Fa'amau fa'amau.\\nFilifili le gagana o le fa'amalama fa'atulagaina.\\nO lo'o fa'aalia le app lea i lena gagana."
+            },
+            {
+                "translateLanguageCode": "sr",
+                "translateText": "Кликните на дугме Подешавања.\\нИзаберите језик прозора са подешавањима.\\нОва апликација се приказује на том језику."
+            },
+            {
+                "translateLanguageCode": "ceb",
+                "translateText": "I-klik ang Settings button.\\nPilia ang lengguwahe sa settings window.\\nKini nga app gipakita sa maong pinulongan."
+            },
+            {
+                "translateLanguageCode": "st",
+                "translateText": "Tobetsa konopo ea Litlhophiso.\\nKhetha puo ea fensetere ea litlhophiso.\\nSesebelisoa sena se hlaha ka puo eo."
+            },
+            {
+                "translateLanguageCode": "so",
+                "translateText": "Guji badhanka Settings.\\n Dooro luqadda daaqada Settings."
+            },
+            {
+                "translateLanguageCode": "sn",
+                "translateText": "Baya bhatani reSettings.\\nSarudza mutauro wepahwindo remasetin'i.\\nApp iyi inoratidzwa mumutauro iwoyo."
+            },
+            {
+                "translateLanguageCode": "su",
+                "translateText": "Klik tombol Setélan.\\nPilih basa dina jandéla setélan.\\nAplikasi ieu dipintonkeun dina basa éta."
+            },
+            {
+                "translateLanguageCode": "sw",
+                "translateText": "Bofya kitufe cha Mipangilio.\\nChagua lugha ya dirisha la mipangilio.\\nProgramu hii inaonyeshwa katika lugha hiyo."
+            },
+            {
+                "translateLanguageCode": "sv",
+                "translateText": "Klicka på knappen Inställningar.\\nVälj språk för inställningsfönstret.\\nDenna app visas på det språket."
+            },
+            {
+                "translateLanguageCode": "gd",
+                "translateText": "Briog air a’ phutan Settings.\\nTagh cànan uinneag nan roghainnean.\\nTha an aplacaid seo ri fhaicinn sa chànan sin."
+            },
+            {
+                "translateLanguageCode": "es",
+                "translateText": "Haga clic en el botón Configuración.\\nSeleccione el idioma de la ventana de configuración.\\nEsta aplicación se muestra en ese idioma."
+            },
+            {
+                "translateLanguageCode": "sk",
+                "translateText": "Kliknite na tlačidlo Nastavenia.\\nVyberte jazyk okna nastavení.\\nTáto aplikácia sa zobrazuje v tomto jazyku."
+            },
+            {
+                "translateLanguageCode": "sl",
+                "translateText": "Kliknite gumb Nastavitve.\\nIzberite jezik okna z nastavitvami.\\nTa aplikacija je prikazana v tem jeziku."
+            },
+            {
+                "translateLanguageCode": "sd",
+                "translateText": "سيٽنگون بٽڻ تي ڪلڪ ڪريو.\\nسيٽنگون ونڊو جي ٻولي چونڊيو.\\nهي ائپ ان ٻولي ۾ ڏيکاريل آهي."
+            },
+            {
+                "translateLanguageCode": "si",
+                "translateText": "සැකසීම් බොත්තම ක්ලික් කරන්න.\\nසැකසීම් කවුළුවේ භාෂාව තෝරන්න.\\nමෙම යෙදුම එම භාෂාවෙන් දර්ශනය වේ."
+            },
+            {
+                "translateLanguageCode": "ar",
+                "translateText": "انقر فوق زر \"الإعدادات\".\\nحدد لغة نافذة الإعدادات.\\nيتم عرض هذا التطبيق بتلك اللغة."
+            },
+            {
+                "translateLanguageCode": "hy",
+                "translateText": "Սեղմեք Կարգավորումներ կոճակը։\\nԸնտրեք կարգավորումների պատուհանի լեզուն։\\nԱյս հավելվածը ցուցադրվում է այդ լեզվով։"
+            },
+            {
+                "translateLanguageCode": "is",
+                "translateText": "Smelltu á Stillingar hnappinn.\\nVeldu tungumál stillingagluggans.\\nÞetta forrit birtist á því tungumáli."
+            },
+            {
+                "translateLanguageCode": "ht",
+                "translateText": "Klike sou bouton Anviwònman an.\\nChwazi lang nan fenèt paramèt la.\\nAplikasyon sa a parèt nan lang sa a."
+            },
+            {
+                "translateLanguageCode": "ga",
+                "translateText": "Cliceáil an cnaipe Socruithe.\\nRoghnaigh teanga na fuinneoige socruithe.\\nTaispeántar an aip seo sa teanga sin."
+            },
+            {
+                "translateLanguageCode": "az",
+                "translateText": "Parametrlər düyməsini klikləyin.\\nAyarlar pəncərəsinin dilini seçin.\\nBu proqram həmin dildə göstərilir."
+            },
+            {
+                "translateLanguageCode": "af",
+                "translateText": "Klik die Instellings-knoppie.\\nKies die taal van die instellingsvenster.\\nHierdie toepassing word in daardie taal vertoon."
+            },
+            {
+                "translateLanguageCode": "sq",
+                "translateText": "Klikoni butonin Cilësimet.\\nZgjidhni gjuhën e dritares së cilësimeve.\\nKy aplikacion shfaqet në atë gjuhë."
+            },
+            {
+                "translateLanguageCode": "am",
+                "translateText": "የቅንብሮች አዝራሩን ጠቅ ያድርጉ።\\nየቅንብሮች መስኮቱን ቋንቋ ይምረጡ።\\nይህ መተግበሪያ በዚያ ቋንቋ ይታያል።"
+            },
+            {
+                "translateLanguageCode": "et",
+                "translateText": "Klõpsake nuppu Seaded.\\nValige seadete akna keel.\\nSee rakendus kuvatakse selles keeles."
+            },
+            {
+                "translateLanguageCode": "eo",
+                "translateText": "Alklaku la butonon Agordoj.\\nElektu la lingvon de la agorda fenestro.\\nĈi tiu aplikaĵo montriĝas en tiu lingvo."
+            },
+            {
+                "translateLanguageCode": "yo",
+                "translateText": "Tẹ bọtini Eto naa.\\nYan ede ti window awọn eto.\\n Ohun elo yii jẹ afihan ni ede yẹn."
+            },
+            {
+                "translateLanguageCode": "ur",
+                "translateText": "ترتیبات کے بٹن پر کلک کریں۔\\nسیٹنگ ونڈو کی زبان منتخب کریں۔\\nیہ ایپ اس زبان میں ظاہر ہوتی ہے۔"
+            },
+            {
+                "translateLanguageCode": "uz",
+                "translateText": "Sozlamalar tugmasini bosing.\\nSozlamalar oynasi tilini tanlang.\\nUshbu ilova oʻsha tilda koʻrsatiladi."
+            },
+            {
+                "translateLanguageCode": "uk",
+                "translateText": "Натисніть кнопку «Налаштування».\\nВиберіть мову вікна налаштувань.\\nЦя програма відображається цією мовою."
+            },
+            {
+                "translateLanguageCode": "cy",
+                "translateText": "Cliciwch y botwm Gosodiadau.\\nDewiswch iaith y ffenestr gosodiadau.\\nMae'r ap hwn yn cael ei ddangos yn yr iaith honno."
+            },
+            {
+                "translateLanguageCode": "ig",
+                "translateText": "Pịa bọtịnụ Settings.\\nHọrọ asụsụ nke mpio ntọala.\\n Ngwa a na-egosipụta n'asụsụ ahụ."
+            },
+            {
+                "translateLanguageCode": "yi",
+                "translateText": "דריקט דעם סעטטינגס קנעפּל.\\nסעלעקט די שפּראַך פון די סעטטינגס פֿענצטער.\\nדי אַפּ איז געוויזן אין די שפּראַך."
+            },
+            {
+                "translateLanguageCode": "it",
+                "translateText": "Fai clic sul pulsante Impostazioni.\\nSeleziona la lingua della finestra delle impostazioni.\\nQuesta app viene visualizzata in quella lingua."
+            },
+            {
+                "translateLanguageCode": "id",
+                "translateText": "Klik tombol Setelan.\\nPilih bahasa jendela setelan.\\nAplikasi ini ditampilkan dalam bahasa tersebut."
+            },
+            {
+                "translateLanguageCode": "ja",
+                "translateText": "[設定]ボタンをクリックします。\\n設定ウィンドウの言語を選択します。\\nこのアプリはその言語で表示されます。"
+            },
+            {
+                "translateLanguageCode": "jw",
+                "translateText": "Klik tombol Setelan.\\nPilih basa ing jendela setelan.\\nAplikasi iki ditampilake ing basa kasebut."
+            },
+            {
+                "translateLanguageCode": "ka",
+                "translateText": "დააწკაპუნეთ ღილაკზე პარამეტრები.\\nაირჩიეთ პარამეტრების ფანჯრის ენა.\\nეს აპი ნაჩვენებია ამ ენაზე."
+            },
+            {
+                "translateLanguageCode": "zu",
+                "translateText": "Chofoza inkinobho ethi Izilungiselelo.\\nKhetha ulimi lwewindi lezilungiselelo.\\nLolu hlelo lokusebenza luboniswa ngalolo limi."
+            },
+            {
+                "translateLanguageCode": "zh-CH",
+                "translateText": "单击“设置”按钮。\\n选择设置窗口的语言。\\n此应用以该语言显示。"
+            },
+            {
+                "translateLanguageCode": "zh-TW",
+                "translateText": "按一下「設定」按鈕。 \\n選擇設定視窗的語言。"
+            },
+            {
+                "translateLanguageCode": "ny",
+                "translateText": "Dinani batani la Zikhazikiko.\\nSankhani chinenero cha zochunira zenera.\\nPulogalamuyi imapezeka m'chinenero chimenecho."
+            },
+            {
+                "translateLanguageCode": "cs",
+                "translateText": "Klikněte na tlačítko Nastavení.\\nVyberte jazyk okna nastavení.\\nTato aplikace se zobrazí v tomto jazyce."
+            },
+            {
+                "translateLanguageCode": "kk",
+                "translateText": "\"Параметрлер\" түймесін басыңыз.\\nПараметрлер терезесінің тілін таңдаңыз.\\nБұл қолданба сол тілде көрсетіледі."
+            },
+            {
+                "translateLanguageCode": "ca",
+                "translateText": "Feu clic al botó Configuració.\\nSeleccioneu l'idioma de la finestra de configuració.\\nAquesta aplicació es mostra en aquest idioma."
+            },
+            {
+                "translateLanguageCode": "kn",
+                "translateText": "ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.\\nಸೆಟ್ಟಿಂಗ್‌ಗಳ ವಿಂಡೋದ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.\\nಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಆ ಭಾಷೆಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ."
+            },
+            {
+                "translateLanguageCode": "co",
+                "translateText": "Cliccate u buttone Settings.\\nSelezziunate a lingua di a finestra di paràmetri.\\nQuesta app hè visualizata in quella lingua."
+            },
+            {
+                "translateLanguageCode": "xh",
+                "translateText": "Cofa i Izicwangciso iqhosha.\\nKhetha ulwimi lwefestile yezicwangciso.\\nLe app iboniswe ngolo lwimi."
+            },
+            {
+                "translateLanguageCode": "ku",
+                "translateText": "Bişkoka Mîhengan bikirtînin.\\nZimanê pencereya mîhengan hilbijêrin.\\nEv sepan bi wî zimanî tê xuyang kirin."
+            },
+            {
+                "translateLanguageCode": "hr",
+                "translateText": "Kliknite gumb Postavke.\\nOdaberite jezik prozora s postavkama.\\nOva se aplikacija prikazuje na tom jeziku."
+            },
+            {
+                "translateLanguageCode": "km",
+                "translateText": "ចុចប៊ូតុងការកំណត់។\\nជ្រើសរើសភាសានៃបង្អួចការកំណត់។\\nកម្មវិធីនេះត្រូវបានបង្ហាញជាភាសានោះ។"
+            },
+            {
+                "translateLanguageCode": "ky",
+                "translateText": "Орнотуулар баскычын басыңыз.\\nЖөндөөлөр терезесинин тилин тандаңыз.\\nБул колдонмо ошол тилде көрсөтүлөт."
+            },
+            {
+                "translateLanguageCode": "tl",
+                "translateText": "I-click ang button na Mga Setting.\\nPiliin ang wika ng window ng mga setting.\\nIpinapakita ang app na ito sa wikang iyon."
+            },
+            {
+                "translateLanguageCode": "ta",
+                "translateText": "அமைப்புகள் பொத்தானைக் கிளிக் செய்யவும்.\\nஅமைப்புகள் சாளரத்தின் மொழியைத் தேர்ந்தெடுக்கவும்.\\nஇந்தப் பயன்பாடு அந்த மொழியில் காட்டப்படும்."
+            },
+            {
+                "translateLanguageCode": "tg",
+                "translateText": "Тугмаи Танзимотро пахш кунед.\\nЗабони равзанаи танзимотро интихоб кунед.\\nИн барнома бо он забон нишон дода мешавад."
+            },
+            {
+                "translateLanguageCode": "th",
+                "translateText": "คลิกปุ่มการตั้งค่า\\nเลือกภาษาของหน้าต่างการตั้งค่า\\nแอปนี้แสดงในภาษานั้น"
+            },
+            {
+                "translateLanguageCode": "tr",
+                "translateText": "Ayarlar düğmesini tıklayın.\\nAyarlar penceresinin dilini seçin.\\nBu uygulama o dilde görüntülenir."
+            },
+            {
+                "translateLanguageCode": "te",
+                "translateText": "సెట్టింగ్‌ల బటన్‌ను క్లిక్ చేయండి.\\nసెట్టింగ్‌ల విండో యొక్క భాషను ఎంచుకోండి.\\nఈ యాప్ ఆ భాషలో ప్రదర్శించబడుతుంది."
+            },
+            {
+                "translateLanguageCode": "ps",
+                "translateText": "د ترتیباتو تڼۍ کلیک وکړئ.\\nد ترتیباتو کړکۍ ژبه وټاکئ.\\nدا ایپ په هغه ژبه کې ښودل کیږي."
+            },
+            {
+                "translateLanguageCode": "pa",
+                "translateText": "ਸੈਟਿੰਗਾਂ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।\\nਸੈਟਿੰਗ ਵਿੰਡੋ ਦੀ ਭਾਸ਼ਾ ਚੁਣੋ।\\nਇਹ ਐਪ ਉਸ ਭਾਸ਼ਾ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦੀ ਹੈ।"
+            },
+            {
+                "translateLanguageCode": "fa",
+                "translateText": "روی دکمه تنظیمات کلیک کنید.\\nزبان پنجره تنظیمات را انتخاب کنید.\\nاین برنامه به آن زبان نمایش داده می‌شود."
+            },
+            {
+                "translateLanguageCode": "pt",
+                "translateText": "Clique no botão Configurações.\\nSelecione o idioma da janela de configurações.\\nEste aplicativo é exibido nesse idioma."
+            },
+            {
+                "translateLanguageCode": "pl",
+                "translateText": "Kliknij przycisk Ustawienia.\\nWybierz język okna ustawień.\\nTa aplikacja jest wyświetlana w tym języku."
+            },
+            {
+                "translateLanguageCode": "fr",
+                "translateText": "Cliquez sur le bouton Paramètres.\\nSélectionnez la langue de la fenêtre des paramètres.\\nCette application s'affiche dans cette langue."
+            },
+            {
+                "translateLanguageCode": "fy",
+                "translateText": "Klik op de knop Ynstellings.\\nSelektearje de taal fan it ynstellingsfinster.\\nDizze app wurdt werjûn yn dy taal."
+            },
+            {
+                "translateLanguageCode": "fi",
+                "translateText": "Napsauta Asetukset-painiketta.\\nValitse asetusikkunan kieli.\\nTämä sovellus näytetään tällä kielellä."
+            },
+            {
+                "translateLanguageCode": "haw",
+                "translateText": "Kaomi i ke pihi Settings.\\nE koho i ka ʻōlelo o ka puka makani hoʻonohonoho.\\nHōʻike ʻia kēia polokalamu ma ia ʻōlelo."
+            },
+            {
+                "translateLanguageCode": "ha",
+                "translateText": "Danna maɓallin Saituna.\\nZaɓi harshen taga saitunan."
+            },
+            {
+                "translateLanguageCode": "hu",
+                "translateText": "Kattintson a Beállítások gombra.\\nVálassza ki a beállítási ablak nyelvét.\\nEz az alkalmazás ezen a nyelven jelenik meg."
+            },
+            {
+                "translateLanguageCode": "iw",
+                "translateText": "לחץ על כפתור ההגדרות.\\nבחר את השפה של חלון ההגדרות.\\nאפליקציה זו מוצגת בשפה זו."
+            },
+            {
+                "translateLanguageCode": "hi",
+                "translateText": "सेटिंग्स बटन पर क्लिक करें.\\nसेटिंग्स विंडो की भाषा चुनें.\\nयह ऐप उस भाषा में प्रदर्शित होता है."
+            }
+        ]
+    },
+    {
+        "transCode": "C_002",
+        "sourceText": "This app uses Google TTS API and Google Translate API.\\nIf you do not have permission to use Google API, next to GOOGLE_APPLICATION_CREDENTIALS\\nClick the question mark button to issue and install the Google TTS API.\\nAnd after copying the issued json file to the executable file directory of this app\\nEnter a file name in the GOOGLE_APPLICATION_CREDENTIALS field.\\nClick the question mark button next to PROJECT_ID to get Google Translate API issued\\nAfter entering the project id in the PROJECT_ID field, click the Apply button to complete the setting.\\nIt is now ready to use.",
+        "sourceLanguageCode": "en",
+        "translateData": [
+            {
+                "translateLanguageCode": "ko",
+                "translateText": "본 앱은 Google TTS API, Google Translate API를 사용하고 있습니다.\\nGoogle API 사용 권한이 없는 경우 GOOGLE_APPLICATION_CREDENTIALS 옆의 물음표 버튼을 클릭하여 Google TTS API를 발급 및 설치하세요.\\n그리고 발급된 json 파일을 복사한 후 이 앱의 실행 파일 디렉터리\\nGOOGLE_APPLICATION_CREDENTIALS 필드에 파일 이름을 입력하세요.\\nPROJECT_ID 옆에 있는 물음표 버튼을 클릭하면 Google 번역 API가 발급됩니다.\\nPROJECT_ID 필드에 프로젝트 ID를 입력한 후 적용 버튼을 클릭하면 완료됩니다. 설정합니다.\\n이제 사용할 준비가 되었습니다."
+            },
+            {
+                "translateLanguageCode": "gl",
+                "translateText": "Esta aplicación usa a API de Google TTS e a API de Google Translate.\\nSe non tes permiso para usar a API de Google, a carón de GOOGLE_APPLICATION_CREDENTIALS\\nFai clic no botón do signo de interrogación para emitir e instalar a API de Google TTS.\\nE despois de copiar o ficheiro json emitido a o directorio de ficheiros executables desta aplicación\\nIntroduza un nome de ficheiro no campo GOOGLE_APPLICATION_CREDENTIALS.\\nFai clic no botón do signo de interrogación situado a carón de PROJECT_ID para que se publique a API de Google Translate\\nDespois de introducir o ID do proxecto no campo PROJECT_ID, fai clic no botón Aplicar para completar o proceso. configuración.\\nAgora está listo para usar."
+            },
+            {
+                "translateLanguageCode": "gu",
+                "translateText": "આ એપ્લિકેશન Google TTS API અને Google Translate API નો ઉપયોગ કરે છે.\\nજો તમારી પાસે Google API નો ઉપયોગ કરવાની પરવાનગી ન હોય તો, GOOGLE_APPLICATION_CREDENTIALS ની બાજુમાં\\nપ્રશ્ન ચિહ્ન બટન પર ક્લિક કરો અને Google TTS API ને ઇન્સ્ટોલ કરો.\\nઅને જારી કરેલ json ફાઇલને કૉપિ કર્યા પછી આ એપ્લિકેશનની એક્ઝિક્યુટેબલ ફાઇલ ડિરેક્ટરી\\nGOOGLE_APPLICATION_CREDENTIALS ફીલ્ડમાં ફાઇલનું નામ દાખલ કરો.\\nGoogle અનુવાદ API જારી કરવા માટે PROJECT_ID ની બાજુના પ્રશ્ન ચિહ્ન બટનને ક્લિક કરો\\nPROJECT_ID ફીલ્ડમાં પ્રોજેક્ટ આઈડી દાખલ કર્યા પછી, પૂર્ણ કરવા માટે લાગુ કરો બટનને ક્લિક કરો સેટિંગ.\\nતે હવે ઉપયોગ માટે તૈયાર છે."
+            },
+            {
+                "translateLanguageCode": "el",
+                "translateText": "Αυτή η εφαρμογή χρησιμοποιεί το Google TTS API και το Google Translate API.\\nΕάν δεν έχετε άδεια χρήσης του Google API, δίπλα στο GOOGLE_APPLICATION_CREDENTIALS\\nΚάντε κλικ στο κουμπί ερωτηματικού για έκδοση και εγκατάσταση του Google TTS API.\\nΚαι αφού αντιγράψετε το εκδοθέν αρχείο json στο τον κατάλογο εκτελέσιμων αρχείων αυτής της εφαρμογής\\nΕισαγάγετε ένα όνομα αρχείου στο πεδίο GOOGLE_APPLICATION_CREDENTIALS.\\nΚάντε κλικ στο κουμπί ερωτηματικού δίπλα στο PROJECT_ID για να εκδοθεί το Google Translate API\\nΜετά την εισαγωγή του αναγνωριστικού έργου στο πεδίο PROJECT_ID, κάντε κλικ στο κουμπί Εφαρμογή για να ολοκληρώσετε την ρύθμιση.\\nΕίναι πλέον έτοιμο για χρήση."
+            },
+            {
+                "translateLanguageCode": "nl",
+                "translateText": "Deze app maakt gebruik van de Google TTS API en Google Translate API.\\nAls u geen toestemming heeft om de Google API te gebruiken, klikt u naast GOOGLE_APPLICATION_CREDENTIALS\\nKlik op de vraagtekenknop om de Google TTS API uit te geven en te installeren.\\nEn nadat u het uitgegeven json-bestand naar de map met uitvoerbare bestanden van deze app\\nVoer een bestandsnaam in het veld GOOGLE_APPLICATION_CREDENTIALS in.\\nKlik op de vraagtekenknop naast PROJECT_ID om de Google Translate API te laten uitgeven\\nNadat u de project-ID in het veld PROJECT_ID hebt ingevoerd, klikt u op de knop Toepassen om de opdracht te voltooien instelling.\\nHet is nu klaar voor gebruik."
+            },
+            {
+                "translateLanguageCode": "ne",
+                "translateText": "यो एपले Google TTS API र Google Translate API प्रयोग गर्छ।\\nयदि तपाईंसँग Google API प्रयोग गर्ने अनुमति छैन भने, GOOGLE_APPLICATION_CREDENTIALS को छेउमा रहेको\\nGoogle TTS API जारी गर्न र स्थापना गर्न प्रश्न चिन्ह बटनमा क्लिक गर्नुहोस्।\\nर जारी गरिएको json फाइल प्रतिलिपि गरेपछि यस एपको कार्यान्वयनयोग्य फाइल डाइरेक्टरी\\nGOOGLE_APPLICATION_CREDENTIALS फिल्डमा फाइल नाम प्रविष्ट गर्नुहोस्।\\nGoogle अनुवादक API जारी गर्नको लागि PROJECT_ID को छेउमा रहेको प्रश्न चिन्ह बटनमा क्लिक गर्नुहोस्\\nPROJECT_ID फिल्डमा परियोजना आईडी प्रविष्ट गरेपछि, पूरा गर्न लागू गर्नुहोस् बटनमा क्लिक गर्नुहोस्। सेटिङ।\\nयो अब प्रयोगको लागि तयार छ।"
+            },
+            {
+                "translateLanguageCode": "no",
+                "translateText": "Denne appen bruker Google TTS API og Google Translate API.\\nHvis du ikke har tillatelse til å bruke Google API, ved siden av GOOGLE_APPLICATION_CREDENTIALS\\nKlikk på spørsmålstegnet-knappen for å utstede og installere Google TTS API.\\nOg etter å ha kopiert den utstedte json-filen til den kjørbare filkatalogen til denne appen\\nSkriv inn et filnavn i GOOGLE_APPLICATION_CREDENTIALS-feltet.\\nKlikk på spørsmålstegn-knappen ved siden av PROJECT_ID for å få utstedt Google Translate API\\nEtter at du har skrevet inn prosjekt-ID-en i PROJECT_ID-feltet, klikker du på Bruk-knappen for å fullføre innstilling.\\nDen er nå klar til bruk."
+            },
+            {
+                "translateLanguageCode": "da",
+                "translateText": "Denne app bruger Google TTS API og Google Translate API.\\nHvis du ikke har tilladelse til at bruge Google API, ud for GOOGLE_APPLICATION_CREDENTIALS\\nKlik på spørgsmålstegnet for at udstede og installere Google TTS API.\\nOg efter at have kopieret den udstedte json-fil til den eksekverbare filmappe for denne app\\nIndtast et filnavn i feltet GOOGLE_APPLICATION_CREDENTIALS.\\nKlik på spørgsmålstegnet ved siden af ​​PROJECT_ID for at få udstedt Google Translate API\\nNår du har indtastet projekt-id'et i feltet PROJECT_ID, skal du klikke på knappen Anvend for at fuldføre indstilling.\\nDen er nu klar til brug."
+            },
+            {
+                "translateLanguageCode": "de",
+                "translateText": "Diese App verwendet Google TTS API und Google Translate API.\\nWenn Sie keine Berechtigung zur Verwendung von Google API haben, klicken Sie neben GOOGLE_APPLICATION_CREDENTIALS\\nauf das Fragezeichen, um die Google TTS API auszugeben und zu installieren.\\nKopieren Sie die ausgegebene JSON-Datei in das ausführbare Dateiverzeichnis dieser App\\nGeben Sie einen Dateinamen in das Feld GOOGLE_APPLICATION_CREDENTIALS ein.\\nKlicken Sie neben PROJECT_ID auf das Fragezeichen, um die Google Translate API auszugeben.\\nKlicken Sie nach Eingabe der Projekt-ID in das Feld PROJECT_ID auf die Schaltfläche „Übernehmen“, um die Einstellung abzuschließen.\\nDie App ist nun einsatzbereit."
+            },
+            {
+                "translateLanguageCode": "lo",
+                "translateText": "ແອັບນີ້ໃຊ້ Google TTS API ແລະ Google Translate API.\\nຖ້າທ່ານບໍ່ມີການອະນຸຍາດໃຫ້ໃຊ້ Google API, ຖັດຈາກ GOOGLE_APPLICATION_CREDENTIALS\\nໃຫ້ຄລິກທີ່ປຸ່ມເຄື່ອງໝາຍຄຳຖາມເພື່ອອອກ ແລະຕິດຕັ້ງ Google TTS API.\\nແລະຫຼັງຈາກສຳເນົາໄຟລ໌ json ທີ່ອອກແລ້ວໄປທີ່ ໄດເຣັກທໍຣີໄຟລ໌ທີ່ສາມາດປະຕິບັດໄດ້ຂອງແອັບຯນີ້\\nໃສ່ຊື່ໄຟລ໌ໃນຊ່ອງ GOOGLE_APPLICATION_CREDENTIALS.\\nຄລິກທີ່ປຸ່ມເຄື່ອງໝາຍຖາມທີ່ຢູ່ຂ້າງ PROJECT_ID ເພື່ອເອົາ Google Translate API ອອກໃຫ້\\nຫຼັງຈາກໃສ່ ID ໂຄງການໃນຊ່ອງ PROJECT_ID, ຄລິກທີ່ປຸ່ມ Apply ເພື່ອເຮັດສໍາເລັດ. ການຕັ້ງຄ່າ.\\nຕອນນີ້ພ້ອມໃຊ້ແລ້ວ."
+            },
+            {
+                "translateLanguageCode": "lv",
+                "translateText": "Šī lietotne izmanto Google TTS API un Google tulkotāja API.\\nJa jums nav atļaujas izmantot Google API, blakus GOOGLE_APPLICATION_CREDENTIALS\\nNoklikšķiniet uz jautājuma zīmes pogas, lai izdotu un instalētu Google TTS API.\\nUn pēc izsniegtā JSON faila kopēšanas uz šīs lietotnes izpildāmā faila direktorijā\\nIevadiet faila nosaukumu laukā GOOGLE_APPLICATION_CREDENTIALS.\\nNoklikšķiniet uz jautājuma zīmes pogas blakus PROJECT_ID, lai saņemtu Google tulkotāja API.\\nPēc projekta ID ievadīšanas laukā PROJECT_ID noklikšķiniet uz pogas Lietot, lai pabeigtu iestatījums.\\nTagad tas ir gatavs lietošanai."
+            },
+            {
+                "translateLanguageCode": "la",
+                "translateText": "Hoc app utitur Google TTS API et Google Translate API.\\nSi non permittitur utendi Google API, iuxta GOOGLE_APPLICATION_CREDENTIALS\\nClick notam interrogationis conjunctionem ad edendam et instituendam Google TTS API.\\nEt cum exemplar lima json edita est. exsecutabile indicis huius app\\nEnter tabellam nominis in agro GOOGLE_APPLICATION_CREDENTIALS.\\nClick tesseram interrogationis proximam ad PROJECT_ID ut Google Translate API edita\\nAnte iniens project id in PROJECT_ID agro, preme Adicio puga ad perficiendum occasum.\\nI nunc utendum est."
+            },
+            {
+                "translateLanguageCode": "ru",
+                "translateText": "Это приложение использует Google TTS API и Google Translate API.\\nЕсли у вас нет разрешения на использование Google API, рядом с GOOGLE_APPLICATION_CREDENTIALS\\nНажмите кнопку со знаком вопроса, чтобы выпустить и установить Google TTS API.\\nИ после копирования выданного файла JSON в каталог исполняемых файлов этого приложения.\\nВведите имя файла в поле GOOGLE_APPLICATION_CREDENTIALS.\\nНажмите кнопку со знаком вопроса рядом с PROJECT_ID, чтобы получить API Google Translate.\\nПосле ввода идентификатора проекта в поле PROJECT_ID нажмите кнопку «Применить», чтобы завершить процедуру. настройка.\\nТеперь он готов к использованию."
+            },
+            {
+                "translateLanguageCode": "ro",
+                "translateText": "Această aplicație folosește API-ul Google TTS și API-ul Google Translate.\\nDacă nu aveți permisiunea de a utiliza API-ul Google, lângă GOOGLE_APPLICATION_CREDENTIALS\\nFaceți clic pe butonul semnului întrebării pentru a emite și instala API-ul Google TTS.\\nȘi după ce ați copiat fișierul json emis în directorul de fișiere executabile al acestei aplicații\\nIntroduceți un nume de fișier în câmpul GOOGLE_APPLICATION_CREDENTIALS.\\nFaceți clic pe butonul semn de întrebare de lângă PROJECT_ID pentru a obține API-ul Google Translate.\\nDupă ce ați introdus ID-ul proiectului în câmpul PROJECT_ID, faceți clic pe butonul Aplicați pentru a finaliza setare.\\nAcum este gata de utilizare."
+            },
+            {
+                "translateLanguageCode": "lb",
+                "translateText": "Dës App benotzt Google TTS API an Google Translate API.\\nWann Dir keng Erlaabnis hutt fir Google API ze benotzen, nieft GOOGLE_APPLICATION_CREDENTIALS\\nKlickt op d'Frozeechen Knäppchen fir d'Google TTS API auszeginn an z'installéieren.\\nAn nodeems Dir déi erausginn Json Datei kopéiert op den ausführbare Dateiverzeichnis vun dëser App\\nGitt e Dateinumm am Feld GOOGLE_APPLICATION_CREDENTIALS un.\\nKlickt op d'Frozeechen-Knäppchen nieft PROJECT_ID fir Google Translate API erausginn ze kréien\\nNodeems Dir d'Projet-ID am PROJECT_ID Feld aginn hutt, klickt op d'Uwenden Knäppchen fir de Astellung.\\nEt ass elo prett fir ze benotzen."
+            },
+            {
+                "translateLanguageCode": "lt",
+                "translateText": "Ši programa naudoja Google TTS API ir Google Translate API.\\nJei neturite leidimo naudoti Google API, šalia GOOGLE_APPLICATION_CREDENTIALS\\nSpustelėkite klaustuko mygtuką, kad išduotumėte ir įdiegtumėte Google TTS API.\\nIr nukopijavę išduotą json failą į šios programos vykdomųjų failų katalogas\\nĮveskite failo pavadinimą lauke GOOGLE_APPLICATION_CREDENTIALS.\\nSpustelėkite klaustuko mygtuką šalia PROJECT_ID, kad gautumėte „Google“ vertėjo API.\\nĮvedę projekto ID lauke PROJECT_ID, spustelėkite mygtuką Taikyti, kad užbaigtumėte nustatymas.\\nDabar jis paruoštas naudoti."
+            },
+            {
+                "translateLanguageCode": "mr",
+                "translateText": "हे ॲप Google TTS API आणि Google Translate API वापरते.\\nतुम्हाला Google API वापरण्याची परवानगी नसल्यास, GOOGLE_APPLICATION_CREDENTIALS च्या शेजारी\\nGoogle TTS API जारी करण्यासाठी आणि स्थापित करण्यासाठी प्रश्नचिन्ह बटणावर क्लिक करा.\\nआणि जारी केलेली json फाइल कॉपी केल्यानंतर या ॲपची एक्झिक्युटेबल फाइल डिरेक्टरी\\nGOOGLE_APPLICATION_CREDENTIALS फील्डमध्ये फाइल नाव प्रविष्ट करा.\\nGoogle Translate API जारी करण्यासाठी PROJECT_ID च्या पुढील प्रश्नचिन्ह बटणावर क्लिक करा\\nPROJECT_ID फील्डमध्ये प्रोजेक्ट आयडी प्रविष्ट केल्यानंतर, पूर्ण करण्यासाठी लागू करा बटणावर क्लिक करा सेटिंग.\\nते आता वापरण्यासाठी तयार आहे."
+            },
+            {
+                "translateLanguageCode": "mi",
+                "translateText": "Ka whakamahia e tenei taupānga te API TTS Google me te API Whakamaori Google.\\nKi te kore koe e whakaae ki te whakamahi i te API Google, kei te taha o GOOGLE_APPLICATION_CREDENTIALS\\nPatohia te paatene tohu patai hei whakaputa me te whakauru i te Google TTS API.\\nA muri i te kape i te konae json kua tukuna ki te whaiaronga kōnae ka taea te whakahaere o tenei taupānga\\nTaurua he ingoa konae ki te mara GOOGLE_APPLICATION_CREDENTIALS.\\nPatohia te paatene tohu patai i te taha o PROJECT_ID kia puta te API Whakamaori Google\\nI muri i te whakauru i te id kaupapa ki te mara PROJECT_ID, pawhiria te paatene Hoatu hei whakaoti i te tautuhinga.\\nKua reri inaianei ki te whakamahi."
+            },
+            {
+                "translateLanguageCode": "mk",
+                "translateText": "Оваа апликација користи Google TTS API и Google Translate API.\\nАко немате дозвола за користење на Google API, веднаш до GOOGLE_APPLICATION_CREDENTIALS\\nКликнете на копчето прашалник за издавање и инсталирање на Google TTS API.\\nИ откако ќе ја копирате издадената датотека json на директориумот за извршна датотека на оваа апликација\\nВнесете име на датотека во полето GOOGLE_APPLICATION_CREDENTIALS.\\nКликнете на копчето прашалник веднаш до PROJECT_ID за да се издаде Google Translate API\\nОткако ќе го внесете проектниот проект во полето PROJECT_ID, кликнете на копчето Примени за да ја завршите поставка.\\nСега е подготвена за употреба."
+            },
+            {
+                "translateLanguageCode": "mg",
+                "translateText": "Mampiasa Google TTS API sy Google Translate API ity app ity.\\nRaha tsy mahazo alalana hampiasa Google API ianao, dia eo anilan'ny GOOGLE_APPLICATION_CREDENTIALS\\nTsindrio ny bokotra marika fanontana mba hamoahana sy hametrahana ny Google TTS API.\\nAry rehefa avy mandika ny rakitra json navoaka ho any ny lahatahiry rakitra azo tanterahana an'ity app ity\\nAmpidiro anarana rakitra ao amin'ny saha GOOGLE_APPLICATION_CREDENTIALS.\\nTsindrio ny bokotra marika fanontaniana eo akaikin'ny PROJECT_ID mba hahazoana ny Google Translate API navoaka\\nRehefa tafiditra ao amin'ny saha PROJECT_ID ny ID ny tetikasa dia tsindrio ny bokotra Ampiharo mba hamitana ny Setting.\\nVonona hampiasaina izao."
+            },
+            {
+                "translateLanguageCode": "ml",
+                "translateText": "ഈ ആപ്പ് Google TTS API, Google Translate API എന്നിവ ഉപയോഗിക്കുന്നു.\\nനിങ്ങൾക്ക് Google API ഉപയോഗിക്കാൻ അനുമതിയില്ലെങ്കിൽ, GOOGLE_APPLICATION_CREDENTIALS എന്നതിന് അടുത്തുള്ള\\nGoogle TTS API ഇഷ്യൂ ചെയ്യാനും ഇൻസ്റ്റാൾ ചെയ്യാനും ചോദ്യചിഹ്ന ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.\\nഇഷ്യൂ ചെയ്ത json ഫയൽ പകർത്തിയ ശേഷം ഈ ആപ്പിൻ്റെ എക്സിക്യൂട്ടബിൾ ഫയൽ ഡയറക്‌ടറി\\nGOOGLE_APPLICATION_CREDENTIALS ഫീൽഡിൽ ഒരു ഫയലിൻ്റെ പേര് നൽകുക.\\nGoogle Translate API ഇഷ്യൂ ചെയ്യപ്പെടുന്നതിന് PROJECT_ID-ന് അടുത്തുള്ള ചോദ്യചിഹ്ന ബട്ടൺ ക്ലിക്കുചെയ്യുക\\nPROJECT_ID ഫീൽഡിൽ പ്രോജക്റ്റ് ഐഡി നൽകിയ ശേഷം, പൂർത്തിയാക്കാൻ പ്രയോഗിക്കുക ബട്ടൺ ക്ലിക്കുചെയ്യുക. ക്രമീകരണം.\\nഇത് ഇപ്പോൾ ഉപയോഗിക്കാൻ തയ്യാറാണ്."
+            },
+            {
+                "translateLanguageCode": "ms",
+                "translateText": "Apl ini menggunakan Google TTS API dan Google Translate API.\\nJika anda tidak mempunyai kebenaran untuk menggunakan Google API, di sebelah GOOGLE_APPLICATION_CREDENTIALS\\nKlik butang tanda soal untuk mengeluarkan dan memasang Google TTS API.\\nDan selepas menyalin fail json yang dikeluarkan ke direktori fail boleh laku apl ini\\nMasukkan nama fail dalam medan GOOGLE_APPLICATION_CREDENTIALS.\\nKlik butang tanda soal di sebelah PROJECT_ID untuk mendapatkan API Terjemahan Google dikeluarkan\\nSelepas memasukkan id projek dalam medan PROJECT_ID, klik butang Guna untuk melengkapkan tetapan.\\nIa kini sedia untuk digunakan."
+            },
+            {
+                "translateLanguageCode": "mt",
+                "translateText": "Din l-app tuża Google TTS API u Google Translate API.\\nJekk m'għandekx permess biex tuża Google API, ħdejn GOOGLE_APPLICATION_CREDENTIALS\\nIkklikkja l-buttuna tal-punt tal-mistoqsija biex toħroġ u tinstalla l-Google TTS API.\\nU wara li tikkopja l-fajl json maħruġ għal id-direttorju tal-fajl eżekutibbli ta' din l-app\\nDaħħal isem tal-fajl fil-qasam GOOGLE_APPLICATION_CREDENTIALS.\\nIkklikkja l-buttuna tal-marka tal-mistoqsija ħdejn PROJECT_ID biex toħroġ l-API ta' Google Translate\\nWara li ddaħħal l-id tal-proġett fil-qasam PROJECT_ID, ikklikkja l-buttuna Applika biex tlesti l- issettjar.\\nIssa huwa lest biex jintuża."
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Энэ апп нь Google TTS API болон Google Translate API-г ашигладаг.\\nХэрэв танд Google API ашиглах зөвшөөрөл байхгүй бол GOOGLE_APPLICATION_CREDENTIALS-ийн хажууд\\nАсуулт тэмдгийн товчийг дарж Google TTS API-г суулгаж суулгана уу.\\nМөн гаргасан json файлыг хуулж авсны дараа Энэ програмын гүйцэтгэгдэх файлын лавлах\\nGOOGLE_APPLICATION_CREDENTIALS талбарт файлын нэрийг оруулна уу.\\nGoogle Translate API-г олгохын тулд PROJECT_ID-ийн хажууд байгаа асуултын тэмдэг дээр дарна уу\\nPROJECT_ID талбарт төслийн ID-г оруулсны дараа Apply товчийг дарж дуусгах тохиргоо.\\nОдоо ашиглахад бэлэн боллоо."
+            },
+            {
+                "translateLanguageCode": "mn",
+                "translateText": "Энэ апп нь Google TTS API болон Google Translate API-г ашигладаг.\\nХэрэв танд Google API ашиглах зөвшөөрөл байхгүй бол GOOGLE_APPLICATION_CREDENTIALS-ийн хажууд\\nАсуулт тэмдгийн товчийг дарж Google TTS API-г суулгаж суулгана уу.\\nМөн гаргасан json файлыг хуулж авсны дараа Энэ програмын гүйцэтгэгдэх файлын лавлах\\nGOOGLE_APPLICATION_CREDENTIALS талбарт файлын нэрийг оруулна уу.\\nGoogle Translate API-г олгохын тулд PROJECT_ID-ийн хажууд байгаа асуултын тэмдэг дээр дарна уу\\nPROJECT_ID талбарт төслийн ID-г оруулсны дараа Apply товчийг дарж дуусгах тохиргоо.\\nОдоо ашиглахад бэлэн боллоо."
+            },
+            {
+                "translateLanguageCode": "my",
+                "translateText": "ဤအက်ပ်သည် Google TTS API နှင့် Google Translate API ကိုအသုံးပြုသည်။\\nGoogle API ကိုအသုံးပြုရန် သင့်တွင်ခွင့်ပြုချက်မရှိပါက၊ GOOGLE_APPLICATION_CREDENTIALS ဘေးရှိ\\nGoogle TTS API ကိုထုတ်ပြီးထည့်သွင်းရန် မေးခွန်းအမှတ်အသားခလုတ်ကိုနှိပ်ပါ။\\nထုတ်ပေးထားသည့် json ဖိုင်ကို ကူးယူပြီးနောက်၊ ဤအက်ပ်၏ လုပ်ဆောင်နိုင်သော ဖိုင်လမ်းညွှန်\\nGOOGLE_APPLICATION_CREDENTIALS အကွက်တွင် ဖိုင်အမည်ကို ထည့်သွင်းပါ။\\nGoogle ဘာသာပြန် API ထုတ်ပေးရန်အတွက် PROJECT_ID ဘေးရှိ မေးခွန်းအမှတ်အသားကို နှိပ်ပါ\\nProJECT_ID အကွက်တွင် ပရောဂျက် ID ကို ထည့်သွင်းပြီးနောက်၊ ပြီးမြောက်ရန် Apply ခလုတ်ကို နှိပ်ပါ။ ဆက်တင်။\\nအသုံးပြုရန် အဆင်သင့်ဖြစ်ပါပြီ။"
+            },
+            {
+                "translateLanguageCode": "eu",
+                "translateText": "Aplikazio honek Google TTS APIa eta Google Translate APIa erabiltzen ditu.\\nGoogle APIa erabiltzeko baimenik ez baduzu, GOOGLE_APPLICATION_CREDENTIALS ondoan\\nEgin klik galdera-marka botoian Google TTS APIa igortzeko eta instalatzeko.\\nEta jaulkitako json fitxategia kopiatu ondoren. aplikazio honen fitxategi exekutagarrien direktorioa\\nIdatzi fitxategi-izen bat GOOGLE_APPLICATION_CREDENTIALS eremuan.\\nSakatu PROJECT_ID-aren ondoko galdera-marka botoian Google Translate APIa jaulkitzeko\\nPROJECT_ID eremuan proiektuaren IDa sartu ondoren, egin klik Aplikatu botoian. ezarpena.\\nOrain erabiltzeko prest dago."
+            },
+            {
+                "translateLanguageCode": "vi",
+                "translateText": "Ứng dụng này sử dụng API Google TTS và API Google Translate.\\nNếu bạn không có quyền sử dụng Google API, bên cạnh GOOGLE_APPLICATION_CREDENTIALS\\nNhấp vào nút dấu hỏi để phát hành và cài đặt API Google TTS.\\nVà sau khi sao chép tệp json đã cấp vào thư mục tệp thực thi của ứng dụng này\\nNhập tên tệp vào trường GOOGLE_APPLICATION_CREDENTIALS.\\nNhấp vào nút dấu chấm hỏi bên cạnh PROJECT_ID để phát hành API Google Dịch\\nSau khi nhập id dự án vào trường PROJECT_ID, hãy nhấp vào nút Áp dụng để hoàn tất cài đặt.\\nNó hiện đã sẵn sàng để sử dụng."
+            },
+            {
+                "translateLanguageCode": "be",
+                "translateText": "Гэта дадатак выкарыстоўвае Google TTS API і Google Translate API.\\nКалі ў вас няма дазволу на выкарыстанне Google API, побач з GOOGLE_APPLICATION_CREDENTIALS\\nНацісніце кнопку пытальніка, каб стварыць і ўсталяваць Google TTS API.\\nІ пасля капіравання выдадзенага файла json у каталог выканальнага файла гэтага прыкладання\\nУвядзіце назву файла ў поле GOOGLE_APPLICATION_CREDENTIALS.\\nНацісніце кнопку пытальніка побач з PROJECT_ID, каб атрымаць Google Translate API\\nПасля ўводу ідэнтыфікатара праекта ў поле PROJECT_ID націсніце кнопку «Ужыць», каб завяршыць налада.\\nЦяпер ён гатовы да выкарыстання."
+            },
+            {
+                "translateLanguageCode": "bn",
+                "translateText": "এই অ্যাপটি Google TTS API এবং Google Translate API ব্যবহার করে।\\nযদি আপনার কাছে Google API ব্যবহার করার অনুমতি না থাকে, তাহলে GOOGLE_APPLICATION_CREDENTIALS এর পাশে\\nপ্রশ্ন চিহ্ন বোতামে ক্লিক করুন এবং Google TTS API ইন্সটল করুন।\\nএবং জারি করা json ফাইলটি কপি করার পর এই অ্যাপের এক্সিকিউটেবল ফাইল ডিরেক্টরি\\nGOOGLE_APPLICATION_CREDENTIALS ফিল্ডে একটি ফাইলের নাম লিখুন।\\nGoogle Translate API ইস্যু করার জন্য PROJECT_ID এর পাশের প্রশ্ন চিহ্ন বোতামে ক্লিক করুন\\nPROJECT_ID ক্ষেত্রে প্রজেক্ট আইডি লেখার পর, সম্পূর্ণ করতে প্রয়োগ করুন বোতামে ক্লিক করুন সেটিং।\\nএটি এখন ব্যবহারের জন্য প্রস্তুত।"
+            },
+            {
+                "translateLanguageCode": "bs",
+                "translateText": "Ova aplikacija koristi Google TTS API i Google Translate API.\\nAko nemate dozvolu za korištenje Google API-ja, pored GOOGLE_APPLICATION_CREDENTIALS\\nKliknite na dugme upitnika da izdate i instalirate Google TTS API.\\nI nakon kopiranja izdanog json fajla na direktorij izvršnih datoteka ove aplikacije\\nUnesite naziv datoteke u polje GOOGLE_APPLICATION_CREDENTIALS.\\nKliknite na dugme sa upitnikom pored PROJECT_ID da dobijete Google Translate API\\nNakon unošenja ID-a projekta u polje PROJECT_ID, kliknite na dugme Apply da završite postavka.\\nSada je spreman za upotrebu."
+            },
+            {
+                "translateLanguageCode": "bg",
+                "translateText": "Това приложение използва Google TTS API и Google Translate API.\\nАко нямате разрешение да използвате Google API, до GOOGLE_APPLICATION_CREDENTIALS\\nЩракнете върху бутона с въпросителен знак, за да издадете и инсталирате Google TTS API.\\nИ след като копирате издадения json файл в директорията с изпълними файлове на това приложение\\nВъведете име на файл в полето GOOGLE_APPLICATION_CREDENTIALS.\\nЩракнете върху бутона с въпросителен знак до PROJECT_ID, за да получите API на Google Translate, издаден\\nСлед като въведете идентификатора на проекта в полето PROJECT_ID, щракнете върху бутона Приложи, за да завършите настройка.\\nВече е готов за използване."
+            },
+            {
+                "translateLanguageCode": "sm",
+                "translateText": "O lenei app e fa'aogaina le Google TTS API ma le Google Translate API.\\nAfai e leai sau fa'atagaga e fa'aoga ai le Google API, i tafatafa o GOOGLE_APPLICATION_CREDENTIALS\\nKiliki le fa'amau fa'ailoga e tu'uina atu ma fa'apipi'i le Google TTS API.\\nMa a uma ona kopi le faila json na tu'uina atu i le faila faila o lenei app\\nTu'u se igoa faila ile GOOGLE_APPLICATION_CREDENTIALS fanua.\\nKiliki le fa'ailoga fesili fa'amau i tafatafa o PROJECT_ID e maua ai le Google Translate API na tu'uina atu\\nA uma ona tu'u le id o le poloketi ile PROJECT_ID fanua, kiliki le Fa'aoga faamau e fa'auma ai le seti.\\nUa sauni nei e fa'aoga."
+            },
+            {
+                "translateLanguageCode": "sr",
+                "translateText": "Ова апликација користи Гоогле ТТС АПИ и Гоогле Транслате АПИ.\\нАко немате дозволу да користите Гоогле АПИ, поред ГООГЛЕ_АППЛИЦАТИОН_ЦРЕДЕНТИАЛС\\нКликните на дугме са знаком питања да бисте издали и инсталирали Гоогле ТТС АПИ.\\нИ након копирања издате јсон датотеке на директоријум извршне датотеке ове апликације\\нУнесите назив датотеке у поље ГООГЛЕ_АППЛИЦАТИОН_ЦРЕДЕНТИАЛС.\\нКликните на дугме са знаком питања поред ПРОЈЕЦТ_ИД да бисте добили АПИ за Гоогле преводилац\\нНакон што унесете ИД пројекта у поље ПРОЈЕЦТ_ИД, кликните на дугме Примени да бисте довршили подешавање.\\нСада је спреман за употребу."
+            },
+            {
+                "translateLanguageCode": "ceb",
+                "translateText": "Kini nga app naggamit sa Google TTS API ug Google Translate API.\\nKung wala kay permiso sa paggamit sa Google API, sunod sa GOOGLE_APPLICATION_CREDENTIALS\\nI-klik ang question mark button para ma-issue ug ma-install ang Google TTS API.\\nUg human makopya ang gi-isyu nga json file ngadto sa ang executable file directory niini nga app\\nPagsulod ug file name sa GOOGLE_APPLICATION_CREDENTIALS field.\\nI-klik ang question mark button sunod sa PROJECT_ID para ma-isyu ang Google Translate API\\nHuman masulod ang project id sa PROJECT_ID field, i-klik ang Apply button aron makompleto ang setting.\\nAndam na kini gamiton."
+            },
+            {
+                "translateLanguageCode": "st",
+                "translateText": "Sesebelisoa sena se sebelisa Google TTS API le Google Translate API.\\nHaeba u se na tumello ea ho sebelisa Google API, haufi le GOOGLE_APPLICATION_CREDENTIALS\\nTobetsa konopo ea letšoao ho hlahisa le ho kenya Google TTS API.\\nMme ka mor'a ho kopitsa faele ea json e fanoeng bukana ea faele e sebetsang ea sesebelisoa sena\\nKenya lebitso la faele karolong ea GOOGLE_APPLICATION_CREDENTIALS.\\nTobetsa konopo ea letšoao la potso e haufi le PROJECT_ID ho ntša Google Translate API\\nKamora ho kenya id ea morero karolong ea PROJECT_ID, tobetsa konopo ea Sebelisa ho qetela tlhophiso.\\nE se e loketse ho sebelisoa."
+            },
+            {
+                "translateLanguageCode": "so",
+                "translateText": "Abkan waxa uu isticmaalaa Google TTS API iyo Google Translate API.\\nHaddii aanad ogolaansho u haysan inaad isticmaasho Google API, ku xigta GOOGLE_APPLICATION_CREDENTIALS\\nguji badhanka su'aasha si aad u soo saarto una rakibto Google TTS API. tusaha faylka la fulin karo ee abkan\\n Geli magaca faylka gudaha GOOGLE_APPLICATION_CREDENTIALS garoonka.\\nRiix badhanka su'aasha ee ku xiga PROJECT_ID si aad Google Translate API u soo saarto\\nKa dib marka aad geliso aqoonsiga mashruuca ee goobta PROJECT_ID, dhagsii badhanka Codso si aad u dhamaystirto dejinta.\\n Hadda waa diyaar in la isticmaalo."
+            },
+            {
+                "translateLanguageCode": "sn",
+                "translateText": "App iyi inoshandisa Google TTS API neGoogle Translate API.\\nKana usina mvumo yekushandisa Google API, pedyo neGOOGLE_APPLICATION_CREDENTIALS\\nDzvanya bhatani remubvunzo kuti ubudise uye uise Google TTS API.\\nUye mushure mekukopa json faira rakapihwa ku dhairekitori refaira rinoshandisika reapp ino\\nIsa zita refaira muchikamu cheGOOGLE_APPLICATION_CREDENTIALS.\\nDzvanya bhatani remaki yemubvunzo riri padyo nePROJECT_ID kuti Google Translate API ibudiswe\\nMushure mekuisa id yeprojekiti muchikamu chePROJECT_ID, baya bhatani re Nyorera kuti upedze kuseta.\\nYava kuda kushandiswa."
+            },
+            {
+                "translateLanguageCode": "su",
+                "translateText": "Aplikasi ieu nganggo Google TTS API sareng Google Translate API.\\nUpami anjeun teu gaduh idin nganggo Google API, di gigireun GOOGLE_APPLICATION_CREDENTIALS\\nKlik tombol tanda tanya pikeun ngaluarkeun sareng masang Google TTS API.\\nSareng nyalin file json anu dikaluarkeun ka diréktori file nu bisa dieksekusi tina aplikasi ieu\\nAsupkeun ngaran koropak dina widang GOOGLE_APPLICATION_CREDENTIALS.\\nKlik tombol tanda tanya di gigireun PROJECT_ID pikeun ngaluarkeun Google Translate API\\nSanggeus ngasupkeun id proyék dina widang PROJECT_ID, klik tombol Larapkeun pikeun ngalengkepan éta setelan.\\nAyeuna tos siap dianggo."
+            },
+            {
+                "translateLanguageCode": "sw",
+                "translateText": "Programu hii hutumia API ya Google TTS na API ya Google Tafsiri.\\nIkiwa huna ruhusa ya kutumia API ya Google, karibu na GOOGLE_APPLICATION_CREDENTIALS\\nBofya kitufe cha alama ya kuuliza ili kutoa na kusakinisha API ya Google TTS.\\nNa baada ya kunakili faili ya json iliyotolewa kwenye saraka ya faili inayoweza kutekelezeka ya programu hii\\nIngiza jina la faili katika sehemu ya GOOGLE_APPLICATION_CREDENTIALS.\\nBofya kitufe cha alama ya kuuliza karibu na PROJECT_ID ili kutoa API ya Tafsiri ya Google\\nBaada ya kuingiza kitambulisho cha mradi katika sehemu ya PROJECT_ID, bofya kitufe cha Tekeleza ili kukamilisha. mpangilio.\\nSasa iko tayari kutumika."
+            },
+            {
+                "translateLanguageCode": "sv",
+                "translateText": "Den här appen använder Google TTS API och Google Translate API.\\nOm du inte har behörighet att använda Google API, bredvid GOOGLE_APPLICATION_CREDENTIALS\\nKlicka på frågetecknet för att utfärda och installera Google TTS API.\\nOch efter att ha kopierat den utfärdade json-filen till den körbara filkatalogen för denna app\\nAnge ett filnamn i fältet GOOGLE_APPLICATION_CREDENTIALS.\\nKlicka på frågetecknet bredvid PROJECT_ID för att få Google Translate API utfärdat\\nNär du har angett projekt-id i fältet PROJECT_ID klickar du på knappen Använd för att slutföra inställning.\\nDen är nu redo att användas."
+            },
+            {
+                "translateLanguageCode": "gd",
+                "translateText": "Bidh an aplacaid seo a’ cleachdadh Google TTS API agus Google Translate API.\\nMura bheil cead agad Google API a chleachdadh, ri taobh GOOGLE_APPLICATION_CREDENTIALS\\nBriog air a’ phutan comharra ceist gus an API Google TTS a chuir a-mach is a stàladh.\\nAgus às deidh dhut lethbhreac a dhèanamh den fhaidhle json a chaidh a chuir a-mach gu ann an eòlaire fhaidhlichean so-ghnìomhaichte na h-aplacaid seo\\nCuir a-steach ainm faidhle san raon GOOGLE_APPLICATION_CREDENTIALS.\\nBriog air a’ phutan comharra ceist ri taobh PROJECT_ID gus Google Translate API a chuir a-mach\\nAn dèidh dhut id a’ phròiseict a chur a-steach san raon PROJECT_ID, cliog air a’ phutan Cuir a-steach gus an suidheachadh.\\nTha e a-nis deiseil airson a chleachdadh."
+            },
+            {
+                "translateLanguageCode": "es",
+                "translateText": "Esta aplicación utiliza Google TTS API y Google Translate API.\\nSi no tiene permiso para usar Google API, junto a GOOGLE_APPLICATION_CREDENTIALS\\nHaga clic en el botón del signo de interrogación para emitir e instalar Google TTS API.\\nY después de copiar el archivo json emitido a el directorio de archivos ejecutables de esta aplicación\\nIngrese un nombre de archivo en el campo GOOGLE_APPLICATION_CREDENTIALS.\\nHaga clic en el botón del signo de interrogación junto a PROJECT_ID para que se emita la API de Google Translate\\nDespués de ingresar la identificación del proyecto en el campo PROJECT_ID, haga clic en el botón Aplicar para completar el configuración.\\nAhora está listo para usar."
+            },
+            {
+                "translateLanguageCode": "sk",
+                "translateText": "Táto aplikácia používa Google TTS API a Google Translate API.\\nAk nemáte povolenie na používanie Google API, vedľa GOOGLE_APPLICATION_CREDENTIALS\\nKliknutím na tlačidlo s otáznikom spustite a nainštalujte Google TTS API.\\nA po skopírovaní vydaného súboru json do adresár so spustiteľným súborom tejto aplikácie\\nDo poľa GOOGLE_APPLICATION_CREDENTIALS zadajte názov súboru.\\nKliknutím na tlačidlo s otáznikom vedľa PROJECT_ID získate vydanie rozhrania Google Translate API\\nPo zadaní ID projektu do poľa PROJECT_ID dokončite kliknutím na tlačidlo Použiť nastavenie.\\nTeraz je pripravený na použitie."
+            },
+            {
+                "translateLanguageCode": "sl",
+                "translateText": "Ta aplikacija uporablja Google TTS API in Google Translate API.\\nČe nimate dovoljenja za uporabo Google API-ja, poleg GOOGLE_APPLICATION_CREDENTIALS\\nkliknite gumb z vprašajem, da izdate in namestite Google TTS API.\\nPo kopiranju izdane datoteke json v imenik izvršljive datoteke te aplikacije\\nVnesite ime datoteke v polje GOOGLE_APPLICATION_CREDENTIALS.\\nKliknite gumb z vprašajem poleg PROJECT_ID, da se izda Google Translate API\\nPo vnosu ID-ja projekta v polje PROJECT_ID kliknite gumb Uporabi, da dokončate nastavitev.\\nZdaj je pripravljen za uporabo."
+            },
+            {
+                "translateLanguageCode": "sd",
+                "translateText": "هي ائپ استعمال ڪري ٿي Google TTS API ۽ Google Translate API.\\nجيڪڏهن توهان کي Google API استعمال ڪرڻ جي اجازت نه آهي، GOOGLE_APPLICATION_CREDENTIALS جي اڳيان\\nسوال جي نشان واري بٽڻ تي ڪلڪ ڪريو جاري ڪرڻ ۽ انسٽال ڪرڻ لاءِ Google TTS API.\\n۽ جاري ڪيل json فائل کي نقل ڪرڻ کان پوءِ هن ائپ جي ايگزيڪيوٽيبل فائل ڊاريڪٽري\\n GOOGLE_APPLICATION_CREDENTIALS فيلڊ ۾ فائل جو نالو داخل ڪريو. سيٽنگ.\\nاهو هاڻي استعمال لاءِ تيار آهي."
+            },
+            {
+                "translateLanguageCode": "si",
+                "translateText": "මෙම යෙදුම Google TTS API සහ Google Translate API භාවිත කරයි.\\nඔබට Google API භාවිතා කිරීමට අවසර නොමැති නම්, GOOGLE_APPLICATION_CREDENTIALS\\nGoogle TTS API නිකුත් කිරීමට සහ ස්ථාපනය කිරීමට ප්‍රශ්න ලකුණු බොත්තම ක්ලික් කරන්න.\\nසහ නිකුත් කළ json ගොනුව පිටපත් කිරීමෙන් පසුව මෙම යෙදුමේ ක්‍රියාත්මක කළ හැකි ගොනු නාමාවලිය\\nGOOGLE_APPLICATION_CREDENTIALS ක්ෂේත්‍රයේ ගොනු නාමයක් ඇතුළත් කරන්න.\\nGoogle Translate API නිකුත් කර ගැනීමට PROJECT_ID අසල ඇති ප්‍රශ්න ලකුණු බොත්තම ක්ලික් කරන්න\\nPROJECT_ID ක්ෂේත්‍රයේ ව්‍යාපෘති හැඳුනුම්පත ඇතුළත් කිරීමෙන් පසු, සම්පූර්ණ කිරීමට අයදුම් කරන්න බොත්තම ක්ලික් කරන්න සැකසීම.\\nඑය දැන් භාවිතයට සූදානම්ය."
+            },
+            {
+                "translateLanguageCode": "ar",
+                "translateText": "يستخدم هذا التطبيق Google TTS API وGoogle Translate API.\\nإذا لم يكن لديك إذن لاستخدام Google API، بجوار GOOGLE_APPLICATION_CREDENTIALS\\nانقر على زر علامة الاستفهام لإصدار Google TTS API وتثبيتها.\\nوبعد نسخ ملف json الذي تم إصداره إلى دليل الملف القابل للتنفيذ لهذا التطبيق\\nأدخل اسم ملف في الحقل GOOGLE_APPLICATION_CREDENTIALS.\\nانقر فوق زر علامة الاستفهام بجوار PROJECT_ID لإصدار Google Translate API\\nبعد إدخال معرف المشروع في الحقل PROJECT_ID، انقر فوق الزر \"تطبيق\" لإكمال الإعداد.\\nوهو الآن جاهز للاستخدام."
+            },
+            {
+                "translateLanguageCode": "hy",
+                "translateText": "Այս հավելվածն օգտագործում է Google TTS API և Google Translate API:\\nԵթե Google API-ն օգտագործելու թույլտվություն չունեք, GOOGLE_APPLICATION_CREDENTIALS-ի կողքին սեղմեք հարցական նշանի կոճակը, որպեսզի թողարկեք և տեղադրեք Google TTS API:\\nԵվ թողարկված json ֆայլը պատճենելուց հետո այս հավելվածի գործարկվող ֆայլերի գրացուցակը\\nՄուտքագրեք ֆայլի անունը GOOGLE_APPLICATION_CREDENTIALS դաշտում:\\nՍեղմեք PROJECT_ID-ի կողքին գտնվող հարցականի կոճակը՝ Google Translate API-ի թողարկման համար\\nՆախագծի ID-ն PROJECT_ID դաշտում մուտքագրելուց հետո սեղմեք Դիմել կոճակը՝ ավարտելու համար: կարգավորում:\\nԱյն այժմ պատրաստ է օգտագործման:"
+            },
+            {
+                "translateLanguageCode": "is",
+                "translateText": "Þetta app notar Google TTS API og Google Translate API.\\nEf þú hefur ekki leyfi til að nota Google API, við hliðina á GOOGLE_APPLICATION_CREDENTIALS\\nSmelltu á spurningamerkishnappinn til að gefa út og setja upp Google TTS API.\\nOg eftir að hafa afritað útgefnu json skrána á keyranleg skráasafn þessa forrits\\nSláðu inn skráarnafn í reitinn GOOGLE_APPLICATION_CREDENTIALS.\\nSmelltu á spurningamerkishnappinn við hliðina á PROJECT_ID til að fá Google Translate API gefið út\\nEftir að hafa slegið inn verkefnisauðkennið í PROJECT_ID reitinn skaltu smella á Nota hnappinn til að ljúka við stilling.\\nHún er nú tilbúin til notkunar."
+            },
+            {
+                "translateLanguageCode": "ht",
+                "translateText": "Aplikasyon sa a sèvi ak Google TTS API ak Google Translate API.\\nSi ou pa gen pèmisyon pou w itilize Google API, akote GOOGLE_APPLICATION_CREDENTIALS\\nKlike sou bouton mak kesyon pou bay ak enstale Google TTS API.\\nEpi apre w fin kopye fichye json ki bay la nan anyè dosye ègzèkutabl aplikasyon sa a\\nEkri non yon fichye nan jaden GOOGLE_APPLICATION_CREDENTIALS la.\\nKlike sou bouton mak kesyon ki akote PROJECT_ID pou jwenn Google Translate API pibliye\\nApre w fin antre id pwojè a nan jaden PROJECT_ID, klike sou bouton Aplike pou konplete anviwònman.\\nKounye a, li pare pou itilize."
+            },
+            {
+                "translateLanguageCode": "ga",
+                "translateText": "Úsáideann an aip seo Google TTS API agus Google Translate API.\\nMura bhfuil cead agat Google API a úsáid, in aice le GOOGLE_APPLICATION_CREDENTIALS\\nCliceáil an cnaipe comhartha ceiste chun API TTS Google a eisiúint agus a shuiteáil.\\nAgus tar éis duit an comhad json eisithe a chóipeáil chuig eolaire comhaid inrite na haipe seo\\nCuir isteach ainm comhaid sa réimse GOOGLE_APPLICATION_CREDENTIALS.\\nCliceáil an cnaipe comhartha ceiste in aice le PROJECT_ID chun API Google Translate a eisiúint\\nTar éis duit aitheantas an tionscadail a chur isteach sa réimse PROJECT_ID, cliceáil ar an gcnaipe Cuir i bhFeidhm chun an socrú.\\nTá sé réidh le húsáid anois."
+            },
+            {
+                "translateLanguageCode": "az",
+                "translateText": "Bu proqram Google TTS API və Google Translate API-dən istifadə edir.\\nƏgər Google API-dən istifadə etmək icazəniz yoxdursa, GOOGLE_APPLICATION_CREDENTIALS-in yanında\\nGoogle TTS API-ni buraxmaq və quraşdırmaq üçün sual işarəsi düyməsini klikləyin.\\nVə buraxılmış json faylını buraya kopyaladıqdan sonra bu tətbiqin icra edilə bilən fayl kataloqu\\nGOOGLE_APPLICATION_CREDENTIALS sahəsinə fayl adını daxil edin.\\nGoogle Tərcümə API-ni əldə etmək üçün PROJECT_ID-in yanındakı sual işarəsi düyməsini klikləyin\\nPROJECT_ID sahəsinə layihə id-sini daxil etdikdən sonra, tamamlamaq üçün Tətbiq düyməsini klikləyin. ayar.\\nİndi istifadəyə hazırdır."
+            },
+            {
+                "translateLanguageCode": "af",
+                "translateText": "Hierdie toepassing gebruik Google TTS API en Google Translate API.\\nAs jy nie toestemming het om Google API te gebruik nie, langs GOOGLE_APPLICATION_CREDENTIALS\\nKlik die vraagtekenknoppie om die Google TTS API uit te reik en te installeer.\\nEn nadat jy die uitgereikte json-lêer gekopieer het na die uitvoerbare lêergids van hierdie toepassing\\nVoer 'n lêernaam in die GOOGLE_APPLICATION_CREDENTIALS-veld in.\\nKlik die vraagtekenknoppie langs PROJECT_ID om Google Translate API uitgereik te kry\\nNadat die projek-ID in die PROJECT_ID-veld ingevoer is, klik die Pas toe-knoppie om die instelling.\\nDit is nou gereed om te gebruik."
+            },
+            {
+                "translateLanguageCode": "sq",
+                "translateText": "Ky aplikacion përdor Google TTS API dhe Google Translate API.\\nNëse nuk keni leje për të përdorur API të Google, pranë GOOGLE_APPLICATION_CREDENTIALS\\nKliko butonin e pikëpyetjes për të nxjerrë dhe instaluar Google TTS API.\\nDhe pasi të kopjoni skedarin json të lëshuar në drejtoria e skedarit të ekzekutueshëm të këtij aplikacioni\\nFut një emër skedari në fushën GOOGLE_APPLICATION_CREDENTIALS.\\nKliko butonin e pikëpyetjes pranë PROJECT_ID për të nxjerrë API-në e Google Translate\\nPasi të futësh ID-në e projektit në fushën PROJECT_ID, kliko butonin Apliko për të përfunduar konfigurimi.\\nTani është gati për t'u përdorur."
+            },
+            {
+                "translateLanguageCode": "am",
+                "translateText": "ይህ መተግበሪያ Google TTS API እና Google Translate API ይጠቀማል።\\nGoogle API ለመጠቀም ፍቃድ ከሌለህ ከGOOGLE_APPLICATION_CREDENTIALS ቀጥሎ\\nየGoogle TTS API ለማውጣት የጥያቄ ማርክ አዝራሩን ጠቅ አድርግ።\\nእና የተሰጠውን json ፋይል ከገለበጥክ በኋላ የዚህ መተግበሪያ የፋይል ማውጫ\\nየፋይል ስም በGOOGLE_APPLICATION_CREDENTIALS መስክ አስገባ።\\nGoogle ትርጉም ኤፒአይ እንዲወጣ ከPROJECT_ID ቀጥሎ ያለውን የጥያቄ ምልክት ጠቅ አድርግ\\nበፕሮጄክት_ID መስኩ ላይ የፕሮጀክት መታወቂያውን ከገባህ ​​በኋላ ተግብር የሚለውን ቁልፍ ተጫን። ቅንብር\\nአሁን ለመጠቀም ዝግጁ ነው።"
+            },
+            {
+                "translateLanguageCode": "et",
+                "translateText": "See rakendus kasutab Google TTS API-t ja Google Translate API-t.\\nKui teil pole Google API kasutamiseks luba, klõpsake rakenduse GOOGLE_APPLICATION_CREDENTIALS kõrval oleval küsimärgi nupul, et väljastada ja installida Google TTS API.\\nJa pärast väljastatud json-faili kopeerimist selle rakenduse käivitatava faili kataloog\\nSisestage faili nimi väljale GOOGLE_APPLICATION_CREDENTIALS.\\nGoogle'i tõlke API väljastamiseks klõpsake valiku PROJECT_ID kõrval oleval küsimärgi nupul\\nPärast projekti ID sisestamist väljale PROJECT_ID klõpsake rakenduse lõpetamiseks nupul Rakenda seade.\\nSee on nüüd kasutamiseks valmis."
+            },
+            {
+                "translateLanguageCode": "eo",
+                "translateText": "Ĉi tiu programo uzas Google TTS API kaj Google Translate API.\\nSe vi ne havas permeson uzi Google API, apud GOOGLE_APPLICATION_CREDENTIALS\\nAlklaku la demandosigno-butonon por eldoni kaj instali la Google TTS API.\\nKaj post kopiado de la eldonita json-dosiero al la plenumebla dosierujo de ĉi tiu aplikaĵo\\nEnigu dosiernomon en la kampo GOOGLE_APPLICATION_CREDENTIALS.\\nAlklaku la demandosigno-butonon apud PROJECT_ID por ke Google Translate API estu eldonita\\nPost enigi la projektididentigilon en la kampo PROJECT_ID, alklaku la butonon Apliki por kompletigi la agordo.\\nĜi nun estas preta por uzi."
+            },
+            {
+                "translateLanguageCode": "yo",
+                "translateText": "Ohun elo yii nlo Google TTS API ati Google Translate.\\nTi o ko ba ni igbanilaaye lati lo Google API, lẹgbẹẹ GOOGLE_APPLICATION_CREDENTIALS\\nTẹ bọtini ami ibeere lati gbejade ati fi Google TTS API sii.\\nAti lẹhin didakọ faili json ti o jade si Ilana faili ti o le ṣiṣẹ ti ohun elo yii\\nTẹ orukọ faili si aaye GOOGLE_APPLICATION_CREDENTIALS.\\nTẹ bọtini ami ibeere lẹgbẹẹ PROJECT_ID lati gba Google Translate API ti a ti gbejade\\nLẹhin titẹ id iṣẹ akanṣe ni aaye PROJECT_ID, tẹ bọtini Waye lati pari iṣẹ naa eto.\\nO ti setan lati lo."
+            },
+            {
+                "translateLanguageCode": "ur",
+                "translateText": "یہ ایپ Google TTS API اور Google Translate API کا استعمال کرتی ہے۔\\nاگر آپ کے پاس Google API استعمال کرنے کی اجازت نہیں ہے، GOOGLE_APPLICATION_CREDENTIALS کے آگے\\nGoogle TTS API جاری کرنے اور انسٹال کرنے کے لیے سوالیہ نشان والے بٹن پر کلک کریں۔\\nاور جاری کردہ json فائل کو کاپی کرنے کے بعد اس ایپ کی ایگزیکیوٹیبل فائل ڈائرکٹری\\nGOOGLE_APPLICATION_CREDENTIALS فیلڈ میں فائل کا نام درج کریں۔\\nGoogle Translate API جاری کرنے کے لیے PROJECT_ID کے آگے سوالیہ نشان والے بٹن پر کلک کریں\\nPROJECT_ID فیلڈ میں پروجیکٹ کی شناخت درج کرنے کے بعد، مکمل کرنے کے لیے اپلائی بٹن پر کلک کریں۔ ترتیب۔\\nیہ اب استعمال کے لیے تیار ہے۔"
+            },
+            {
+                "translateLanguageCode": "uz",
+                "translateText": "Bu ilova Google TTS API va Google Translate API’dan foydalanadi.\\nAgar sizda Google API’dan foydalanishga ruxsat bo‘lmasa, GOOGLE_APPLICATION_CREDENTIALS yonidagi\\nGoogle TTS API’ni chiqarish va o‘rnatish uchun savol belgisi tugmasini bosing.\\nVa berilgan json faylidan nusxa olgandan so‘ng ushbu ilovaning bajariladigan fayllar katalogi\\nGOOGLE_APPLICATION_CREDENTIALS maydoniga fayl nomini kiriting.\\nGoogle Translate API-ni chiqarish uchun PROJECT_ID yonidagi savol belgisi tugmasini bosing\\nPROJECT_ID maydoniga loyiha identifikatorini kiritgandan so‘ng, amalni yakunlash uchun Qo‘llash tugmasini bosing. sozlandi.\\nU endi foydalanishga tayyor."
+            },
+            {
+                "translateLanguageCode": "uk",
+                "translateText": "Ця програма використовує Google TTS API і Google Translate API.\\nЯкщо у вас немає дозволу на використання Google API, поруч із GOOGLE_APPLICATION_CREDENTIALS\\nнатисніть кнопку зі знаком питання, щоб створити та встановити Google TTS API.\\nСкопіювавши виданий файл json у каталог виконуваних файлів цієї програми\\nВведіть ім’я файлу в поле GOOGLE_APPLICATION_CREDENTIALS.\\nНатисніть кнопку зі знаком питання поруч із PROJECT_ID, щоб отримати API перекладу Google\\nПісля введення ідентифікатора проекту в поле PROJECT_ID натисніть кнопку «Застосувати», щоб завершити налаштування.\\nТепер він готовий до використання."
+            },
+            {
+                "translateLanguageCode": "cy",
+                "translateText": "Mae'r ap hwn yn defnyddio Google TTS API a Google Translate API.\\nOs nad oes gennych ganiatâd i ddefnyddio Google API, wrth ymyl GOOGLE_APPLICATION_CREDENTIALS\\nCliciwch y botwm marc cwestiwn i gyhoeddi a gosod API TTS Google.\\nAc ar ôl copïo'r ffeil json a gyhoeddwyd i cyfeiriadur ffeiliau gweithredadwy'r ap hwn\\nRhowch enw ffeil yn y maes GOOGLE_APPLICATION_CREDENTIALS.\\nCliciwch y botwm marc cwestiwn wrth ymyl PROJECT_ID i gyhoeddi Google Translate API\\nAr ôl rhoi'r ID project yn y maes PROJECT_ID, cliciwch ar y botwm Apply i gwblhau'r gosodiad.\\nMae nawr yn barod i'w ddefnyddio."
+            },
+            {
+                "translateLanguageCode": "ig",
+                "translateText": "Ngwa a na-eji Google TTS API na Google Translate API.\\nỌ bụrụ na ịnweghị ikike iji Google API, n'akụkụ GOOGLE_APPLICATION_CREDENTIALS\\n Pịa bọtịnụ akara ajụjụ iji wepụta wee wụnye Google TTS API.\\nNa mgbe i demigharịa faịlụ json enyere na ya. akwụkwọ ndekọ aha faịlụ executable nke ngwa a\\nTinye aha faịlụ na mpaghara GOOGLE_APPLICATION_CREDENTIALS.\\n Pịa bọtịnụ akara ajụjụ dị n'akụkụ PROJECT_ID iji nweta Google Translate API nke ewepụtara\\nMgbe i tinyechara id oru ngo n'ime oghere PROJECT_ID, pịa bọtịnụ Mee ka mezue ya. ntọala.\\nỌ dịla njikere iji."
+            },
+            {
+                "translateLanguageCode": "yi",
+                "translateText": "די אַפּ ניצט Google TTS API און Google Translate API.\\nאויב איר טאָן ניט האָבן דערלויבעניש צו נוצן Google API, ווייַטער צו GOOGLE_APPLICATION_CREDENTIALS\\nדריקט דעם קשיא צייכן קנעפּל צו אַרויסגעבן און ינסטאַלירן די Google TTS API.\\nאון נאָך קאַפּיינג די ארויס דזשסאָן טעקע צו די עקסעקוטאַבלע טעקע וועגווייַזער פון דעם אַפּ\\n אַרייַן אַ טעקע נאָמען אין די GOOGLE_APPLICATION_CREDENTIALS פעלד.\\n דריקט דעם קשיא צייכן קנעפּל ווייַטער צו PROJECT_ID צו באַקומען Google Translate API ארויס\\nנאָך אַרייַן די פּרויעקט שייַן אין די PROJECT_ID פעלד, גיט די צולייגן קנעפּל צו פאַרענדיקן די באַשטעטיקן.\\nעס איז איצט גרייט צו נוצן."
+            },
+            {
+                "translateLanguageCode": "it",
+                "translateText": "Questa app utilizza l'API Google TTS e l'API Google Translate.\\nSe non disponi dell'autorizzazione per utilizzare l'API Google, accanto a GOOGLE_APPLICATION_CREDENTIALS\\nFai clic sul pulsante con il punto interrogativo per rilasciare e installare l'API Google TTS.\\nDopo aver copiato il file json rilasciato in la directory dei file eseguibili di questa app\\nInserisci un nome file nel campo GOOGLE_APPLICATION_CREDENTIALS.\\nFai clic sul pulsante del punto interrogativo accanto a PROJECT_ID per ottenere l'emissione dell'API di Google Translate\\nDopo aver inserito l'ID progetto nel campo PROJECT_ID, fai clic sul pulsante Applica per completare la impostazione.\\nOra è pronto per l'uso."
+            },
+            {
+                "translateLanguageCode": "id",
+                "translateText": "Aplikasi ini menggunakan Google TTS API dan Google Translate API.\\nJika Anda tidak memiliki izin untuk menggunakan Google API, di samping GOOGLE_APPLICATION_CREDENTIALS\\nKlik tombol tanda tanya untuk menerbitkan dan menginstal Google TTS API.\\nDan setelah menyalin file json yang dikeluarkan ke direktori file yang dapat dieksekusi dari aplikasi ini\\nMasukkan nama file di bidang GOOGLE_APPLICATION_CREDENTIALS.\\nKlik tombol tanda tanya di sebelah PROJECT_ID agar Google Translate API diterbitkan\\nSetelah memasukkan id proyek di bidang PROJECT_ID, klik tombol Terapkan untuk menyelesaikan pengaturan.\\nSekarang siap digunakan."
+            },
+            {
+                "translateLanguageCode": "ja",
+                "translateText": "このアプリは、Google TTS API と Google Translate API を使用します。\\nGoogle API を使用する権限がない場合は、GOOGLE_APPLICATION_CREDENTIALS の横にある疑問符ボタンをクリックして、Google TTS API を発行してインストールします。\\n発行された json ファイルをこのアプリの実行ファイル ディレクトリにコピーした後、GOOGLE_APPLICATION_CREDENTIALS フィールドにファイル名を入力します。\\nPROJECT_ID の横にある疑問符ボタンをクリックして、Google Translate API を発行します。\\nPROJECT_ID フィールドにプロジェクト ID を入力した後、適用ボタンをクリックして設定を完了します。\\nこれで使用できるようになります。"
+            },
+            {
+                "translateLanguageCode": "jw",
+                "translateText": "Aplikasi iki nggunakake Google TTS API lan Google Translate API.\\nYen sampeyan ora duwe idin kanggo nggunakake Google API, ing jejere GOOGLE_APPLICATION_CREDENTIALS\\nKlik tombol tandha pitakon kanggo ngetokake lan nginstal Google TTS API.\\nLan sawise nyalin file json sing ditanggepi menyang direktori file eksekusi aplikasi iki\\nKetik jeneng berkas ing kolom GOOGLE_APPLICATION_CREDENTIALS.\\nKlik tombol tandha pitakon ing jejere PROJECT_ID kanggo njaluk Google Translate API diterbitake\\nSawise ngetik id proyek ing kolom PROJECT_ID, klik tombol Aplikasi kanggo ngrampungake setelan.\\nSaiki wis siyap dienggo."
+            },
+            {
+                "translateLanguageCode": "ka",
+                "translateText": "ეს აპი იყენებს Google TTS API-ს და Google Translate API-ს.\\nთუ არ გაქვთ Google API-ის გამოყენების ნებართვა, GOOGLE_APPLICATION_CREDENTIALS-ის გვერდით\\nდააწკაპუნეთ კითხვის ნიშნის ღილაკზე გამოსაშვებად და დააინსტალირეთ Google TTS API.\\nდა გაცემული json ფაილის კოპირების შემდეგ ამ აპის შესრულებადი ფაილების დირექტორია\\nშეიყვანეთ ფაილის სახელი GOOGLE_APPLICATION_CREDENTIALS ველში.\\nდააწკაპუნეთ კითხვის ნიშნის ღილაკზე PROJECT_ID-ის გვერდით Google Translate API-ის გასაცემად\\nპროექტის ID-ის შეყვანის შემდეგ PROJECT_ID ველში დააწკაპუნეთ ღილაკზე მიმართვა დასასრულებლად. პარამეტრი.\\nახლა მზადაა გამოსაყენებლად."
+            },
+            {
+                "translateLanguageCode": "zu",
+                "translateText": "Lolu hlelo lokusebenza lusebenzisa i-Google TTS API ne-Google Translate API.\\nUma ungenayo imvume yokusebenzisa i-Google API, eduze kwe-GOOGLE_APPLICATION_CREDENTIALS\\nChofoza inkinobho yomaka ukuze ukhiphe futhi ufake i-Google TTS API.\\nFuthi ngemva kokukopisha ifayela le-json elikhishiwe ku- uhla lwemibhalo lwefayela olusebenzisekayo lwalolu hlelo lokusebenza\\nFaka igama lefayela kunkambu ye-GOOGLE_APPLICATION_CREDENTIALS.\\nChofoza inkinobho yophawu lombuzo eduze kwe-PROJECT_ID ukuze ukhiphe i-Google Translate API\\nNgemva kokufaka i-id yephrojekthi kunkambu ye-PROJECT_ID, chofoza inkinobho ethi Faka ukuze uqedele isilungiselelo.\\nManje isilungele ukusetshenziswa."
+            },
+            {
+                "translateLanguageCode": "zh-CH",
+                "translateText": "本应用使用了 Google TTS API 和 Google Translate API。\\n如果您没有使用 Google API 的权限，请在 GOOGLE_APPLICATION_CREDENTIALS 旁边\\n点击问号按钮即可颁发并安装 Google TTS API。\\n并将颁发的 json 文件复制到本应用的可执行文件目录中后\\n在 GOOGLE_APPLICATION_CREDENTIALS 字段中输入文件名。\\n点击 PROJECT_ID 旁边的问号按钮即可颁发 Google Translate API\\n在 PROJECT_ID 字段中输入项目 id 后，点击应用按钮即可完成设置。\\n现在就可以使用了。"
+            },
+            {
+                "translateLanguageCode": "zh-TW",
+                "translateText": "此應用程式使用 Google TTS API 和 Google Translate API。此應用程式的可執行檔目錄\\n在GOOGLE_APPLICATION_CREDENTIALS 欄位中輸入檔案名稱。 \\n按一下PROJECT_ID 旁的問號按鈕以取得Google Translate API 發佈\\n在PROJECT_ID 欄位中輸入專案ID 後，按一下「套用」按鈕以取得Google Translate API 發佈\\n在PROJECT_ID 欄位中輸入專案ID 後，按一下「套用」按鈕完成設定。 \\n現在可以使用了。"
+            },
+            {
+                "translateLanguageCode": "ny",
+                "translateText": "Pulogalamuyi imagwiritsa ntchito Google TTS API ndi Google Translate API.\\nNgati mulibe chilolezo chogwiritsa ntchito Google API, pafupi ndi GOOGLE_APPLICATION_CREDENTIALS\\nDinani batani lachifunso kuti mutulutse ndikuyika Google TTS API.\\nNdipo mukakopera fayilo ya json yoperekedwa ku m'ndandanda wamafayilo omwe angagwiritsidwe ntchito a pulogalamuyi\\nLowetsani dzina lafayilo pagawo la GOOGLE_APPLICATION_CREDENTIALS.\\nDinani batani lachifunso pafupi ndi PROJECT_ID kuti Google Translate API itulutsidwe\\nMukalowetsa id ya pulojekiti mugawo la PROJECT_ID, dinani batani la Ikani kuti mumalize khazikitsa.\\nTsopano ndiyokonzeka kugwiritsidwa ntchito."
+            },
+            {
+                "translateLanguageCode": "cs",
+                "translateText": "Tato aplikace používá Google TTS API a Google Translate API.\\nPokud nemáte oprávnění používat Google API, vedle GOOGLE_APPLICATION_CREDENTIALS\\nKliknutím na tlačítko s otazníkem vydejte a nainstalujte Google TTS API.\\nA po zkopírování vydaného souboru json do adresář se spustitelným souborem této aplikace\\nZadejte název souboru do pole GOOGLE_APPLICATION_CREDENTIALS.\\nKliknutím na tlačítko s otazníkem vedle PROJECT_ID získáte vydání rozhraní Google Translate API\\nPo zadání ID projektu do pole PROJECT_ID kliknutím na tlačítko Použít dokončete nastavení.\\nNyní je připraveno k použití."
+            },
+            {
+                "translateLanguageCode": "kk",
+                "translateText": "Бұл қолданба Google TTS API және Google Translate API пайдаланады.\\nЕгер Google API пайдалануға рұқсатыңыз болмаса, GOOGLE_APPLICATION_CREDENTIALS жанындағы\\nGoogle TTS API нұсқасын шығару және орнату үшін сұрақ белгісі түймесін басыңыз.\\nЖәне берілген json файлын мына жерге көшіргеннен кейін осы қолданбаның орындалатын файл каталогы\\nGOOGLE_APPLICATION_CREDENTIALS өрісіне файл атауын енгізіңіз.\\nGoogle Translate API-ны шығару үшін PROJECT_ID жанындағы сұрақ белгісін басыңыз.\\n PROJECT_ID өрісіне жоба идентификаторын енгізгеннен кейін, аяқтау үшін Қолдану түймесін басыңыз. параметрі.\\nОл енді пайдалануға дайын."
+            },
+            {
+                "translateLanguageCode": "ca",
+                "translateText": "Aquesta aplicació utilitza l'API de Google TTS i l'API de Google Translate.\\nSi no teniu permís per utilitzar l'API de Google, al costat de GOOGLE_APPLICATION_CREDENTIALS\\nFeu clic al botó del signe d'interrogació per emetre i instal·lar l'API de Google TTS.\\nI després de copiar el fitxer json emès a el directori de fitxers executables d'aquesta aplicació\\nIntroduïu un nom de fitxer al camp GOOGLE_APPLICATION_CREDENTIALS.\\nFeu clic al botó del signe d'interrogació que hi ha al costat de PROJECT_ID per emetre l'API de Google Translate\\nDesprés d'introduir l'identificador del projecte al camp PROJECT_ID, feu clic al botó Aplica per completar el configuració.\\nAra està llest per utilitzar-lo."
+            },
+            {
+                "translateLanguageCode": "kn",
+                "translateText": "ಈ ಅಪ್ಲಿಕೇಶನ್ Google TTS API ಮತ್ತು Google Translate API ಅನ್ನು ಬಳಸುತ್ತದೆ.\\nನೀವು Google API ಅನ್ನು ಬಳಸಲು ಅನುಮತಿಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, GOOGLE_APPLICATION_CREDENTIALS\\nGoogle TTS API ಅನ್ನು ನೀಡಲು ಮತ್ತು ಸ್ಥಾಪಿಸಲು ಪ್ರಶ್ನೆ ಗುರುತು ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.\\nಮತ್ತು ನೀಡಿರುವ json ಫೈಲ್ ಅನ್ನು ನಕಲಿಸಿದ ನಂತರ ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ ಕಾರ್ಯಗತಗೊಳಿಸಬಹುದಾದ ಫೈಲ್ ಡೈರೆಕ್ಟರಿ\\nGOOGLE_APPLICATION_CREDENTIALS ಕ್ಷೇತ್ರದಲ್ಲಿ ಫೈಲ್ ಹೆಸರನ್ನು ನಮೂದಿಸಿ.\\nGoogle Translate API ಅನ್ನು ಪಡೆಯಲು PROJECT_ID ಪಕ್ಕದಲ್ಲಿರುವ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ\\nPROJECT_ID ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರಾಜೆಕ್ಟ್ ಐಡಿಯನ್ನು ನಮೂದಿಸಿದ ನಂತರ, ಪೂರ್ಣಗೊಳಿಸಲು ಅನ್ವಯಿಸು ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಸೆಟ್ಟಿಂಗ್.\\nಇದು ಈಗ ಬಳಸಲು ಸಿದ್ಧವಾಗಿದೆ."
+            },
+            {
+                "translateLanguageCode": "co",
+                "translateText": "Questa app usa l'API Google TTS è l'API Google Translate.\\nSe ùn avete micca permessu di utilizà l'API Google, accantu à GOOGLE_APPLICATION_CREDENTIALS\\nCliccate u buttone d'interrogazione per emette è installà l'API Google TTS.\\nÈ dopu avè copiatu u schedariu json emessu à u cartulare di file eseguibili di sta app\\nInserisci un nome di file in u campu GOOGLE_APPLICATION_CREDENTIALS.\\nCliccate u buttone d'interrogazione accantu à PROJECT_ID per uttene l'API di Google Translate. paràmetru.\\nÈ avà prontu à aduprà."
+            },
+            {
+                "translateLanguageCode": "xh",
+                "translateText": "Le app isebenzisa Google TTS API kunye Google Translate API.\\nUkuba awunayo imvume yokusebenzisa Google API, ecaleni GOOGLE_APPLICATION_CREDENTIALS\\nCofa uphawu lombuzo iqhosha ukukhupha kwaye ufake Google TTS API.\\nKwaye emva kokukopa ifayile json ekhutshiweyo ukuze isilawuli sefayile ephunyeziweyo kolusetyenziso\\nFaka igama lefayile kwindawo GOOGLE_APPLICATION_CREDENTIALS.\\nCofa iqhosha lombuzo ecaleni kwe PROJECT_ID ukufumana iGoogle Translate API ikhutshwe\\nEmva kokungena id yeprojekthi kwindawo PROJECT_ID, cofa iqhosha elithi Faka ukugqiba. ukuseta.\\nNgoku ilungele ukusetyenziswa."
+            },
+            {
+                "translateLanguageCode": "ku",
+                "translateText": "Ev sepan Google TTS API û Google Wergerê API bikar tîne.\\nHeke destûra we tune ku hûn API-ya Google-ê bikar bînin, li kêleka GOOGLE_APPLICATION_CREDENTIALS\\nBişkoja nîşana pirsê bikirtînin da ku hûn derxin û Google TTS API saz bikin.\\nÛ piştî kopîkirina pelê jsonê pelrêça pelê îcrakar a vê sepanê\\nNavê pelê têxe qada GOOGLE_APPLICATION_CREDENTIALS.\\nBişkojka nîşana pirsê ya li tenişta PROJECT_ID bitikîne da ku API-ya Wergera Google derkeve\\nPiştî ku nasnama projeyê di qada PROJECT_ID-ê de têkevî, bişkojka Serlêdan bikirtîne da ku temam bike mîhengê.\\nNiha ji bo bikaranînê amade ye."
+            },
+            {
+                "translateLanguageCode": "hr",
+                "translateText": "Ova aplikacija koristi Google TTS API i Google Translate API.\\nAko nemate dopuštenje za korištenje Google API-ja, pored GOOGLE_APPLICATION_CREDENTIALS\\nkliknite gumb upitnika za izdavanje i instaliranje Google TTS API-ja.\\nI nakon kopiranja izdane json datoteke na direktorij izvršne datoteke ove aplikacije\\nUnesite naziv datoteke u polje GOOGLE_APPLICATION_CREDENTIALS.\\nKliknite gumb upitnika pored PROJECT_ID da biste dobili Google Translate API\\nNakon unosa ID-a projekta u polje PROJECT_ID, kliknite gumb Primijeni da dovršite postavku.\\nSada je spreman za korištenje."
+            },
+            {
+                "translateLanguageCode": "km",
+                "translateText": "កម្មវិធីនេះប្រើ Google TTS API និង Google Translate API។\\nប្រសិនបើអ្នកមិនមានការអនុញ្ញាតឱ្យប្រើ Google API ទេ នៅជាប់ GOOGLE_APPLICATION_CREDENTIALS\\nចុចប៊ូតុងសញ្ញាសួរដើម្បីចេញ ហើយដំឡើង Google TTS API។\\nហើយបន្ទាប់ពីចម្លងឯកសារ json ដែលបានចេញទៅ ថតឯកសារដែលអាចប្រតិបត្តិបាននៃកម្មវិធីនេះ\\nបញ្ចូលឈ្មោះឯកសារនៅក្នុងវាល GOOGLE_APPLICATION_CREDENTIALS ។\\nចុចប៊ូតុងសញ្ញាសួរនៅជាប់ PROJECT_ID ដើម្បីទទួលបាន Google Translate API ចេញ\\nបន្ទាប់ពីបញ្ចូលលេខសម្គាល់គម្រោងក្នុងវាល PROJECT_ID សូមចុចប៊ូតុងអនុវត្ត ដើម្បីបំពេញ ការកំណត់។\\nឥឡូវនេះវារួចរាល់ក្នុងការប្រើប្រាស់។"
+            },
+            {
+                "translateLanguageCode": "ky",
+                "translateText": "Бул колдонмо Google TTS API жана Google Translate API колдонот.\\nЭгер сизде Google API колдонууга уруксатыңыз жок болсо, GOOGLE_APPLICATION_CREDENTIALS'тин жанындагы\\nGoogle TTS APIди чыгаруу жана орнотуу үчүн суроо белгиси баскычын чыкылдатыңыз.\\nЖана чыгарылган json файлын көчүрүп алгандан кийин бул колдонмонун аткарылуучу файл каталогу\\nGOOGLE_APPLICATION_CREDENTIALS талаасына файлдын атын киргизиңиз.\\nGoogle Translate API'син чыгаруу үчүн PROJECT_ID жанындагы суроо белгисин чыкылдатыңыз\\nPROJECT_ID талаасына долбоордун идентификаторун киргизгенден кийин, \"Колдонуу\" баскычын чыкылдатыңыз. жөндөө.\\nАл азыр колдонууга даяр."
+            },
+            {
+                "translateLanguageCode": "tl",
+                "translateText": "Gumagamit ang app na ito ng Google TTS API at Google Translate API.\\nKung wala kang pahintulot na gamitin ang Google API, sa tabi ng GOOGLE_APPLICATION_CREDENTIALS\\nI-click ang button na tandang pananong upang mag-isyu at mag-install ng Google TTS API.\\nAt pagkatapos kopyahin ang ibinigay na json file sa ang executable na direktoryo ng file ng app na ito\\nMaglagay ng pangalan ng file sa GOOGLE_APPLICATION_CREDENTIALS field.\\nI-click ang button na tandang pananong sa tabi ng PROJECT_ID upang maibigay ang Google Translate API\\nPagkatapos ilagay ang project id sa PROJECT_ID field, i-click ang button na Ilapat upang kumpletuhin ang setting.\\nHanda na itong gamitin."
+            },
+            {
+                "translateLanguageCode": "ta",
+                "translateText": "இந்த ஆப்ஸ் Google TTS API மற்றும் Google Translate API ஐப் பயன்படுத்துகிறது.\\nGoogle API ஐப் பயன்படுத்த உங்களுக்கு அனுமதி இல்லையென்றால், GOOGLE_APPLICATION_CREDENTIALS க்கு அடுத்துள்ள கேள்விக்குறி பொத்தானைக் கிளிக் செய்து Google TTS API ஐ வெளியிட்டு நிறுவவும்.\\nமேலும் வழங்கப்பட்ட json கோப்பை நகலெடுத்த பிறகு இந்த பயன்பாட்டின் இயங்கக்கூடிய கோப்பு அடைவு\\nGOOGLE_APPLICATION_CREDENTIALS புலத்தில் கோப்பு பெயரை உள்ளிடவும்.\\nGoogle Translate API ஐப் பெற PROJECT_ID க்கு அடுத்துள்ள கேள்விக்குறி பொத்தானைக் கிளிக் செய்யவும்\\nPROJECT_ID புலத்தில் திட்ட ஐடியை உள்ளிட்ட பிறகு, விண்ணப்பிக்கவும் பொத்தானைக் கிளிக் செய்து முடிக்கவும் அமைப்பு.\\nஇது இப்போது பயன்படுத்த தயாராக உள்ளது."
+            },
+            {
+                "translateLanguageCode": "tg",
+                "translateText": "Ин барнома API-и Google TTS ва Google Translate-ро истифода мебарад.\\nАгар шумо барои истифодаи Google API иҷоза надошта бошед, дар паҳлӯи GOOGLE_APPLICATION_CREDENTIALS\\nТугмаи аломати саволро пахш кунед, то API-и Google TTS-ро пешниҳод ва насб кунед.\\nВа пас аз нусхабардории файли json додашуда ба директорияи файли иҷрошавандаи ин барнома\\nНоми файлро дар майдони GOOGLE_APPLICATION_CREDENTIALS ворид кунед.\\nТугмаи аломати саволро дар паҳлӯи PROJECT_ID клик кунед, то API-и Google Translate дода шавад\\nПас аз ворид кардани ID-и лоиҳа дар майдони PROJECT_ID, тугмаи Apply-ро пахш кунед, то танзим.\\nОн ҳоло барои истифода омода аст."
+            },
+            {
+                "translateLanguageCode": "th",
+                "translateText": "แอปนี้ใช้ Google TTS API และ Google Translate API\\nหากคุณไม่ได้รับอนุญาตให้ใช้ Google API ให้ถัดจาก GOOGLE_APPLICATION_CREDENTIALS\\nคลิกปุ่มเครื่องหมายคำถามเพื่อออกและติดตั้ง Google TTS API\\nและหลังจากคัดลอกไฟล์ json ที่ออกไปยัง ไดเรกทอรีไฟล์ปฏิบัติการของแอปนี้\\nป้อนชื่อไฟล์ในช่อง GOOGLE_APPLICATION_CREDENTIALS\\nคลิกปุ่มเครื่องหมายคำถามถัดจาก PROJECT_ID เพื่อรับ Google Translate API\\nหลังจากป้อนรหัสโครงการในช่อง PROJECT_ID แล้ว ให้คลิกปุ่มใช้เพื่อดำเนินการ การตั้งค่า\\nตอนนี้พร้อมใช้งานแล้ว"
+            },
+            {
+                "translateLanguageCode": "tr",
+                "translateText": "Bu uygulama, Google TTS API'sini ve Google Translate API'sini kullanır.\\nGoogle API'yi kullanma izniniz yoksa, GOOGLE_APPLICATION_CREDENTIALS'ın yanındaki soru işareti düğmesini tıklayın.\\nGoogle TTS API'yi yayınlayıp yüklemek için.\\nVe verilen json dosyasını şuraya kopyaladıktan sonra: bu uygulamanın yürütülebilir dosya dizini\\nGOOGLE_APPLICATION_CREDENTIALS alanına bir dosya adı girin.\\nGoogle Çeviri API'sinin yayınlanmasını sağlamak için PROJECT_ID'nin yanındaki soru işareti düğmesini tıklayın\\nPROJECT_ID alanına proje kimliğini girdikten sonra, işlemi tamamlamak için Uygula düğmesini tıklayın ayar.\\nArtık kullanıma hazır."
+            },
+            {
+                "translateLanguageCode": "te",
+                "translateText": "ఈ యాప్ Google TTS API మరియు Google Translate APIని ఉపయోగిస్తుంది.\\nమీకు Google APIని ఉపయోగించడానికి అనుమతి లేకపోతే, GOOGLE_APPLICATION_CREDENTIALS పక్కన\\nGoogle TTS APIని జారీ చేయడానికి మరియు ఇన్‌స్టాల్ చేయడానికి ప్రశ్న గుర్తు బటన్‌ను క్లిక్ చేయండి.\\nమరియు జారీ చేసిన json ఫైల్‌ని కాపీ చేసిన తర్వాత ఈ యాప్ ఎక్జిక్యూటబుల్ ఫైల్ డైరెక్టరీ\\nGOOGLE_APPLICATION_CREDENTIALS ఫీల్డ్‌లో ఫైల్ పేరును నమోదు చేయండి.\\nGoogle Translate APIని పొందడానికి PROJECT_ID పక్కన ఉన్న ప్రశ్న గుర్తు బటన్‌ను క్లిక్ చేయండి\\nPROJECT_ID ఫీల్డ్‌లో ప్రాజెక్ట్ ఐడిని నమోదు చేసిన తర్వాత, పూర్తి చేయడానికి వర్తించు బటన్‌ను క్లిక్ చేయండి సెట్టింగ్.\\nఇది ఇప్పుడు ఉపయోగించడానికి సిద్ధంగా ఉంది."
+            },
+            {
+                "translateLanguageCode": "ps",
+                "translateText": "دا اپلیکیشن د Google TTS API او Google Translate API کاروي.\\nکه تاسو د Google API کارولو اجازه نلرئ، د GOOGLE_APPLICATION_CREDENTIALS ترڅنګ\\nد پوښتنې نښه تڼۍ کلیک وکړئ ترڅو د ګوګل TTS API خپور او نصب کړئ.\\nاو د جاري شوي json فایل کاپي کولو وروسته د دې اپلیکیشن د اجرا وړ فایل ډایرکټر\\nد GOOGLE_APPLICATION_CREDENTIALS په ډګر کې د فایل نوم دننه کړئ.\\nد ګوګل ژباړونکي API ترلاسه کولو لپاره د PROJECT_ID تر څنګ د پوښتنې نښه تڼۍ کلیک وکړئ\\nد PROJECT_ID ساحه کې د پروژې ID له ننوتلو وروسته، د بشپړولو لپاره د پلي کولو تڼۍ کلیک وکړئ. ترتیب.\\nدا اوس د کارولو لپاره چمتو دی."
+            },
+            {
+                "translateLanguageCode": "pa",
+                "translateText": "ਇਹ ਐਪ Google TTS API ਅਤੇ Google Translate API ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ।\\nਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ Google API ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ, GOOGLE_APPLICATION_CREDENTIALS ਦੇ ਅੱਗੇ\\nGoogle TTS API ਨੂੰ ਜਾਰੀ ਕਰਨ ਅਤੇ ਸਥਾਪਤ ਕਰਨ ਲਈ ਪ੍ਰਸ਼ਨ ਚਿੰਨ੍ਹ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।\\nਅਤੇ ਜਾਰੀ ਕੀਤੀ json ਫਾਈਲ ਨੂੰ ਕਾਪੀ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸ ਐਪ ਦੀ ਐਗਜ਼ੀਕਿਊਟੇਬਲ ਫਾਈਲ ਡਾਇਰੈਕਟਰੀ\\nGOOGLE_APPLICATION_CREDENTIALS ਖੇਤਰ ਵਿੱਚ ਇੱਕ ਫਾਈਲ ਨਾਮ ਦਰਜ ਕਰੋ।\\nGoogle ਅਨੁਵਾਦ API ਨੂੰ ਜਾਰੀ ਕਰਨ ਲਈ PROJECT_ID ਦੇ ਅੱਗੇ ਦਿੱਤੇ ਪ੍ਰਸ਼ਨ ਚਿੰਨ੍ਹ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ\\nPROJECT_ID ਖੇਤਰ ਵਿੱਚ ਪ੍ਰੋਜੈਕਟ ਆਈਡੀ ਦਰਜ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਲਾਗੂ ਕਰੋ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ। ਸੈਟਿੰਗ।\\nਇਹ ਹੁਣ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੈ।"
+            },
+            {
+                "translateLanguageCode": "fa",
+                "translateText": "این برنامه از Google TTS API و Google Translate API استفاده می کند.\\nاگر مجوز استفاده از Google API را ندارید، در کنار GOOGLE_APPLICATION_CREDENTIALS\\nبرای صدور و نصب Google TTS API روی دکمه علامت سوال کلیک کنید.\\nو پس از کپی کردن فایل json صادر شده در دایرکتوری فایل اجرایی این برنامه\\nنام فایل را در قسمت GOOGLE_APPLICATION_CREDENTIALS وارد کنید.\\nبر روی دکمه علامت سوال در کنار PROJECT_ID کلیک کنید تا Google Translate API صادر شود\\nپس از وارد کردن شناسه پروژه در قسمت PROJECT_ID، روی دکمه اعمال کلیک کنید تا تکمیل شود تنظیمات.\\nاکنون آماده استفاده است."
+            },
+            {
+                "translateLanguageCode": "pt",
+                "translateText": "Este aplicativo usa a API TTS do Google e a API Google Translate.\\nSe você não tiver permissão para usar a API do Google, ao lado de GOOGLE_APPLICATION_CREDENTIALS\\nClique no botão de ponto de interrogação para emitir e instalar a API TTS do Google.\\nE depois de copiar o arquivo json emitido para o diretório do arquivo executável deste aplicativo\\nInsira um nome de arquivo no campo GOOGLE_APPLICATION_CREDENTIALS.\\nClique no botão de ponto de interrogação ao lado de PROJECT_ID para obter a API do Google Tradutor emitida\\nDepois de inserir o ID do projeto no campo PROJECT_ID, clique no botão Aplicar para concluir o configuração.\\nAgora está pronto para uso."
+            },
+            {
+                "translateLanguageCode": "pl",
+                "translateText": "Ta aplikacja korzysta z Google TTS API i Google Translate API.\\nJeśli nie masz uprawnień do korzystania z Google API, obok GOOGLE_APPLICATION_CREDENTIALS\\nKliknij przycisk ze znakiem zapytania, aby wydać i zainstalować Google TTS API.\\nA po skopiowaniu wydanego pliku json do katalog plików wykonywalnych tej aplikacji\\nWprowadź nazwę pliku w polu GOOGLE_APPLICATION_CREDENTIALS.\\nKliknij przycisk ze znakiem zapytania obok PROJECT_ID, aby wyświetlić interfejs API Tłumacza Google\\nPo wprowadzeniu identyfikatora projektu w polu PROJECT_ID kliknij przycisk Zastosuj, aby zakończyć ustawienie.\\nJest teraz gotowy do użycia."
+            },
+            {
+                "translateLanguageCode": "fr",
+                "translateText": "Cette application utilise l'API Google TTS et l'API Google Translate.\\nSi vous n'êtes pas autorisé à utiliser l'API Google, à côté de GOOGLE_APPLICATION_CREDENTIALS\\nCliquez sur le bouton point d'interrogation pour émettre et installer l'API Google TTS.\\nEt après avoir copié le fichier json émis dans le répertoire de fichiers exécutables de cette application\\nSaisissez un nom de fichier dans le champ GOOGLE_APPLICATION_CREDENTIALS.\\nCliquez sur le bouton point d'interrogation à côté de PROJECT_ID pour obtenir l'API Google Translate\\nAprès avoir saisi l'ID du projet dans le champ PROJECT_ID, cliquez sur le bouton Appliquer pour terminer le paramètre.\\nIl est maintenant prêt à être utilisé."
+            },
+            {
+                "translateLanguageCode": "fy",
+                "translateText": "Dizze app brûkt Google TTS API en Google Translate API.\\nAs jo ​​gjin tastimming hawwe om Google API te brûken, njonken GOOGLE_APPLICATION_CREDENTIALS\\nKlik op de fraachtekenknop om de Google TTS API út te jaan en te ynstallearjen.\\nEn nei it kopiearjen fan it útjûne json-bestân nei de útfierbere triemtafel fan dizze app\\nFier in bestânsnamme yn yn it fjild GOOGLE_APPLICATION_CREDENTIALS.\\nKlik op de fraachtekenknop njonken PROJECT_ID om Google Translate API útjûn te krijen\\nNei it ynfieren fan de projekt-id yn it fjild PROJECT_ID, klikje op de knop Tapasse om de ynstelling.\\nIt is no klear foar gebrûk."
+            },
+            {
+                "translateLanguageCode": "fi",
+                "translateText": "Tämä sovellus käyttää Googlen TTS-sovellusliittymää ja Google Translate API:a.\\nJos sinulla ei ole lupaa käyttää Google-sovellusliittymää, sovelluksen GOOGLE_APPLICATION_CREDENTIALS vieressä.\\nMuista ja asenna Google TTS -sovellusliittymä napsauttamalla kysymysmerkkipainiketta.\\nJa kun olet kopioinut myönnetyn json-tiedoston tämän sovelluksen suoritettavan tiedoston hakemisto\\nAnna tiedoston nimi GOOGLE_APPLICATION_CREDENTIALS -kenttään.\\nKlikkaa PROJECT_ID:n vieressä olevaa kysymysmerkkipainiketta saadaksesi Google-kääntäjän API:n.\\nKun olet kirjoittanut projektitunnuksen PROJECT_ID-kenttään, napsauta Käytä-painiketta viimeistelläksesi asetus.\\nSe on nyt käyttövalmis."
+            },
+            {
+                "translateLanguageCode": "haw",
+                "translateText": "Hoʻohana kēia polokalamu i ka Google TTS API a me ka Google Translate API.\\nInā ʻaʻole ʻae ʻia ʻoe e hoʻohana i ka Google API, ma ka ʻaoʻao o GOOGLE_APPLICATION_CREDENTIALS\\nKomi i ke pihi hōʻailona nīnau e hoʻopuka a hoʻokomo i ka Google TTS API.\\nA ma hope o ke kope ʻana i ka faila json i hoʻopuka ʻia i ka papa kuhikuhi waihona hiki ke hoʻokō ʻia o kēia app\\nE hoʻokomo i ka inoa waihona ma ke kahua GOOGLE_APPLICATION_CREDENTIALS.\\nE kaomi i ke pihi hōʻailona nīnau ma ka ʻaoʻao o PROJECT_ID no ka hoʻopuka ʻia ʻana o ka API Unuhi Google. hoʻonohonoho.\\nUa mākaukau ʻia e hoʻohana."
+            },
+            {
+                "translateLanguageCode": "ha",
+                "translateText": "Wannan app yana amfani da Google TTS API da Google Translate API.\\nIdan baku da izinin amfani da Google API, kusa da GOOGLE_APPLICATION_CREDENTIALS\\n Danna maɓallin alamar tambaya don fitarwa kuma shigar da Google TTS API.\\nKuma bayan kwafin fayil ɗin json da aka fitar zuwa kundin adireshin fayil ɗin aiwatarwa na wannan app\\n Shigar da sunan fayil a cikin filin GOOGLE_APPLICATION_CREDENTIALS.\\n Danna maɓallin alamar tambaya kusa da PROJECT_ID don samun API na Fassara Google\\n Bayan shigar da id ɗin aikin a cikin filin PROJECT_ID, danna maɓallin Aiwatar don kammala aikin. saitin.\\nYanzu ya shirya don amfani."
+            },
+            {
+                "translateLanguageCode": "hu",
+                "translateText": "Ez az alkalmazás a Google TTS API-t és a Google Fordító API-t használja.\\nHa nincs engedélye a Google API használatára, a GOOGLE_APPLICATION_CREDENTIALS mellett\\nKattintson a kérdőjel gombra a Google TTS API kiadásához és telepítéséhez.\\nÉs miután átmásolta a kiadott json fájlt ide: az alkalmazás futtatható fájljának könyvtára\\nÍrjon be egy fájlnevet a GOOGLE_APPLICATION_CREDENTIALS mezőbe.\\nKattintson a PROJECT_ID melletti kérdőjel gombra a Google Fordító API kiadásához\\nMiután megadta a projektazonosítót a PROJECT_ID mezőben, kattintson az Alkalmaz gombra a beállítást.\\nMost használatra kész."
+            },
+            {
+                "translateLanguageCode": "iw",
+                "translateText": "אפליקציה זו משתמשת ב-Google TTS API וב-Google Translate API.\\nאם אין לך הרשאה להשתמש ב-Google API, לצד GOOGLE_APPLICATION_CREDENTIALS\\nלחץ על כפתור סימן השאלה כדי להנפיק ולהתקין את Google TTS API.\\nאחרי העתקת קובץ ה-json שהונפק אל ספריית קבצי ההפעלה של אפליקציה זו\\nהזן שם קובץ בשדה GOOGLE_APPLICATION_CREDENTIALS.\\nלחץ על לחצן סימן השאלה שליד PROJECT_ID כדי להנפיק את ה-API של Google Translate\\nלאחר הזנת מזהה הפרויקט בשדה PROJECT_ID, לחץ על הלחצן החל כדי להשלים את הגדרה.\\nעכשיו זה מוכן לשימוש."
+            },
+            {
+                "translateLanguageCode": "hi",
+                "translateText": "यह ऐप Google TTS API और Google अनुवाद API का उपयोग करता है।\\nयदि आपके पास Google API का उपयोग करने की अनुमति नहीं है, तो GOOGLE_APPLICATION_CREDENTIALS के आगे\\nGoogle TTS API जारी करने और इंस्टॉल करने के लिए प्रश्न चिह्न बटन पर क्लिक करें।\\nऔर जारी की गई json फ़ाइल को इस ऐप की निष्पादन योग्य फ़ाइल निर्देशिका में कॉपी करने के बाद\\nGOOGLE_APPLICATION_CREDENTIALS फ़ील्ड में फ़ाइल नाम दर्ज करें।\\nGoogle अनुवाद API जारी करने के लिए PROJECT_ID के आगे प्रश्न चिह्न बटन पर क्लिक करें\\nPROJECT_ID फ़ील्ड में प्रोजेक्ट आईडी दर्ज करने के बाद, सेटिंग को पूरा करने के लिए लागू करें बटन पर क्लिक करें।\\nयह अब उपयोग के लिए तैयार है।"
+            }
+        ]
+    }
+]
