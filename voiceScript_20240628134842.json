@@ -1,0 +1,38 @@
+[
+    {
+        "transCode": "C",
+        "maxDuration": 44208,
+        "files": [
+            {
+                "filename": "result/voice/voice20240628134759/C_EX_Korean(SouthKorea)_ko-KR-Neural2-A_FEMALE.mp3",
+                "duration": 1896,
+                "voiceKind": "Korean(SouthKorea)"
+            },
+            {
+                "filename": "result/voice/voice20240628134759/C_EX_Korean(SouthKorea)_ko-KR-Neural2-C_MALE.mp3",
+                "duration": 1800,
+                "voiceKind": "Korean(SouthKorea)"
+            },
+            {
+                "filename": "result/voice/voice20240628134759/C_001_Korean(SouthKorea)_ko-KR-Neural2-A_FEMALE.mp3",
+                "duration": 6912,
+                "voiceKind": "Korean(SouthKorea)"
+            },
+            {
+                "filename": "result/voice/voice20240628134759/C_001_Korean(SouthKorea)_ko-KR-Neural2-C_MALE.mp3",
+                "duration": 7320,
+                "voiceKind": "Korean(SouthKorea)"
+            },
+            {
+                "filename": "result/voice/voice20240628134759/C_002_Korean(SouthKorea)_ko-KR-Neural2-A_FEMALE.mp3",
+                "duration": 44208,
+                "voiceKind": "Korean(SouthKorea)"
+            },
+            {
+                "filename": "result/voice/voice20240628134759/C_002_Korean(SouthKorea)_ko-KR-Neural2-C_MALE.mp3",
+                "duration": 43104,
+                "voiceKind": "Korean(SouthKorea)"
+            }
+        ]
+    }
+]
